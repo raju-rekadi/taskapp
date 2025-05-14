@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/taskapp/static/css/main.9f2074f8.css",
+    "main.js": "/taskapp/static/js/main.5604532f.js",
+    "static/js/453.db2e7850.chunk.js": "/taskapp/static/js/453.db2e7850.chunk.js",
+    "index.html": "/taskapp/index.html",
+    "main.9f2074f8.css.map": "/taskapp/static/css/main.9f2074f8.css.map",
+    "main.5604532f.js.map": "/taskapp/static/js/main.5604532f.js.map",
+    "453.db2e7850.chunk.js.map": "/taskapp/static/js/453.db2e7850.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9f2074f8.css",
+    "static/js/main.5604532f.js"
+  ]
+}

@@ -103,11 +103,13 @@ function App() {
 
           const average = totalCreditHours ? (totalWeightedGradePoints / totalCreditHours).toFixed(2) : "0.00";
 
-          return {
-            ...student,
-            average,
-            expanded: false, // for toggling visibility
-          };
+           return {
+    ...student,
+    average,
+    totalCreditPoints: totalWeightedGradePoints.toFixed(2),
+    totalCreditHours,
+    expanded: false,
+  };
         });
 
         setAllResults(updatedResults);
@@ -133,7 +135,7 @@ function App() {
   });
 
   return (
-    <div className="min-h-screen bg-gray-100 py-10 px-10">
+    <div className="min-h-screen bg-gray-100 py-5 sm:px-10 px-4">
       {/* Header with "Developed by Raju Rekadi" */}
      <div className="flex flex-col md:flex-row justify-between items-center px-4 py-6 bg-white shadow rounded-lg">
       <div className="text-center md:text-left">
@@ -196,60 +198,75 @@ function App() {
 
       {/* Display Results */}
       {submitted && sortedResults.length > 0 && (
-        <div className="max-w-6xl mx-auto mt-2 space-y-6">
+        <div className="max-w-6xl mx-auto mt-2 space-y-2">
           {sortedResults.map((student, idx) => (
             <div key={idx} className="bg-white p-4 rounded-lg shadow-md border">
               <div
-                className="flex justify-between items-center cursor-pointer"
-                onClick={() => {
-                  const updated = allResults.map((s) =>
-                    s.hallTicket === student.hallTicket
-                      ? { ...s, expanded: !s.expanded }
-                      : s
-                  );
-                  setAllResults(updated);
-                }}
-              >
-                <h3 className="text-lg font-bold">
-                  {idx + 1}. {student.name} ({student.hallTicket})
-                </h3>
-                <div className="flex items-center gap-4">
-                  <span className="text-md font-medium">SGPA: {student.average}</span>
-                  <span className="text-xl">{student.expanded ? '▲' : '▼'}</span>
-                </div>
-              </div>
+  className={`flex justify-between items-center cursor-pointer rounded-md p-2 sm:p-4 shadow-sm border transition ${
+    student.expanded ? "bg-blue-100 border-blue-400" : "bg-white"
+  }`}
+  onClick={() => {
+    const updated = allResults.map((s) =>
+      s.hallTicket === student.hallTicket
+        ? { ...s, expanded: !s.expanded }
+        : s
+    );
+    setAllResults(updated);
+  }}
+>
+  {/* Name wraps into two lines if long */}
+  <h3 className="text-xs sm:text-lg font-semibold max-w-[70%] break-words leading-snug">
+    {idx + 1}. {student.name} ({student.hallTicket})
+  </h3>
+
+  {/* SGPA + arrow aligned to right */}
+  <div className="flex items-center  sm:gap-4 flex-shrink-0 whitespace-nowrap">
+    <span className="text-xs sm:text-xl font-medium">SGPA: {student.average}</span>
+    <span className="text-lg sm:text-xl">{student.expanded ? '▲' : '▼'}</span>
+  </div>
+</div>
+
+
 
               {/* Expandable Table */}
-            {student.expanded && (
-  <div className="mt-2">
+{student.expanded && (
+  <div className="mt-2 overflow-x-auto">
     <table className="min-w-full table-auto border-collapse">
       <thead>
         <tr className="bg-gray-200">
-          <th className="px-2 sm:px-4 py-2 border text-sm">Sl. No</th>
-          <th className="px-2 sm:px-4 py-2 border text-sm">Subject</th>
-          <th className="px-2 sm:px-4 py-2 border text-sm">Th/Pr</th>
-          <th className="px-2 sm:px-4 py-2 border text-sm">Credit Hours</th>
-          <th className="px-2 sm:px-4 py-2 border text-sm">Grade Point</th>
-          <th className="px-2 sm:px-4 py-2 border text-sm">Credit Point</th>
-          <th className="px-2 sm:px-4 py-2 border text-sm">Grade</th>
+          <th className="px-2 sm:px-4 py-2 border text-[8px] sm:text-sm">Sl. No</th>
+          <th className="px-2 sm:px-4 py-2 border text-[8px] sm:text-sm">Subject</th>
+          <th className="px-2 sm:px-4 py-2 border text-[8px] sm:text-sm">Th/Pr</th>
+          <th className="px-2 sm:px-4 py-2 border text-[8px] sm:text-sm">Credit Hours</th>
+          <th className="px-2 sm:px-4 py-2 border text-[8px] sm:text-sm">Grade Point</th>
+          <th className="px-2 sm:px-4 py-2 border text-[8px] sm:text-sm">Credit Point</th>
+          <th className="px-2 sm:px-4 py-2 border text-[8px] sm:text-sm">Grade</th>
         </tr>
       </thead>
       <tbody>
         {student.results.map((r, i) => (
           <tr key={i} className="border-b">
-            <td className="px-2 sm:px-4 py-2 text-center text-1 sm:text-sm">{r.slNo}</td>
-            <td className="px-2 sm:px-4 py-2 text-1 sm:text-sm">{r.subject}</td>
-            <td className="px-2 sm:px-4 py-2 text-1 sm:text-sm">{r.thPr}</td>
-            <td className="px-2 sm:px-4 py-2 text-1 sm:text-sm">{r.creditHours}</td>
-            <td className="px-2 sm:px-4 py-2 text-1 sm:text-sm">{r.gradePoint}</td>
-            <td className="px-2 sm:px-4 py-2 text-1 sm:text-sm">{r.creditPoint}</td>
-            <td className="px-2 sm:px-4 py-2 text-1 sm:text-sm">{r.grade}</td>
+            <td className="px-2 sm:px-4 py-2 text-center text-[8px] sm:text-sm">{r.slNo}</td>
+            <td className="px-2 sm:px-4 py-2 text-[8px] sm:text-sm">{r.subject}</td>
+            <td className="px-2 sm:px-4 py-2 text-[8px] sm:text-sm">{r.thPr}</td>
+            <td className="px-2 sm:px-4 py-2 text-[8px] sm:text-sm">{r.creditHours}</td>
+            <td className="px-2 sm:px-4 py-2 text-[8px] sm:text-sm">{r.gradePoint}</td>
+            <td className="px-2 sm:px-4 py-2 text-[8px] sm:text-sm">{r.creditPoint}</td>
+            <td className="px-2 sm:px-4 py-2 text-[8px] sm:text-sm">{r.grade}</td>
           </tr>
         ))}
       </tbody>
     </table>
+    <div className="mt-1 flex justify-center text-center text-[10px] sm:text-sm text-gray-800 p-2">
+      <div>
+        <p className="font-semibold">Total SGPA : Total Credit Points / Total Credit Hours</p>
+        <p className="font-semibold">{student.totalCreditPoints} / {student.totalCreditHours} = {student.average}</p>
+      </div>
+    </div>
   </div>
 )}
+
+
 
             </div>
           ))}

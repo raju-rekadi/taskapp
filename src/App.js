@@ -70,7 +70,7 @@ function App() {
   const [submitted, setSubmitted] = useState(false);
   const [error, setError] = useState('');
   const [loading, setLoading] = useState(true);
-  const [sortOrder, setSortOrder] = useState('');
+  const [sortOrder, setSortOrder] = useState('desc');
   const [allResults, setAllResults] = useState([]);
 
   // Fetch data on page load
@@ -171,24 +171,32 @@ function App() {
       )}
 
       {/* Sort by SGPA */}
-      <div className="max-w-6xl mx-auto mt-4 flex items-center justify-end gap-2">
-        <label htmlFor="sortOrder" className="font-medium text-gray-700">
-          Sort by SGPA:
-        </label>
-        <select
-          id="sortOrder"
-          value={sortOrder}
-          onChange={(e) => setSortOrder(e.target.value)}
-          className="border px-3 py-2 rounded-md shadow-sm"
-        >
-          <option value="">Roll Number</option>
-          <option value="desc">High to Low</option>
-        </select>
-      </div>
+    <div className="max-w-6xl mx-auto mt-4 flex justify-center items-center">
+  <div className="flex gap-2">
+    <button
+      onClick={() => setSortOrder("desc")}
+      className={`px-4 py-2 rounded-md text-sm font-medium border ${
+        sortOrder === "desc" ? "bg-blue-600 text-white" : "bg-white text-gray-700"
+      }`}
+    >
+      Sort By SGPA
+    </button>
+    <button
+      onClick={() => setSortOrder("")}
+      className={`px-4 py-2 rounded-md text-sm font-medium border ${
+        sortOrder === "" ? "bg-blue-600 text-white" : "bg-white text-gray-700"
+      }`}
+    >
+      Sort By Roll Number
+    </button>
+  </div>
+</div>
+
+
 
       {/* Display Results */}
       {submitted && sortedResults.length > 0 && (
-        <div className="max-w-6xl mx-auto mt-10 space-y-6">
+        <div className="max-w-6xl mx-auto mt-2 space-y-6">
           {sortedResults.map((student, idx) => (
             <div key={idx} className="bg-white p-4 rounded-lg shadow-md border">
               <div
@@ -212,36 +220,37 @@ function App() {
               </div>
 
               {/* Expandable Table */}
-              {student.expanded && (
-                <div className="mt-4">
-                  <table className="min-w-full table-auto border-collapse">
-                    <thead>
-                      <tr className="bg-gray-200">
-                        <th className="px-4 py-2 border text-sm">Sl. No</th>
-                        <th className="px-4 py-2 border text-sm">Subject</th>
-                        <th className="px-4 py-2 border text-sm">Th/Pr</th>
-                        <th className="px-4 py-2 border text-sm">Credit Hours</th>
-                        <th className="px-4 py-2 border text-sm">Grade Point</th>
-                        <th className="px-4 py-2 border text-sm">Credit Point</th>
-                        <th className="px-4 py-2 border text-sm">Grade</th>
-                      </tr>
-                    </thead>
-                    <tbody>
-                      {student.results.map((r, i) => (
-                        <tr key={i} className="border-b">
-                          <td className="px-4 py-2 text-center text-xs sm:text-sm">{r.slNo}</td>
-                          <td className="px-4 py-2 text-xs sm:text-sm">{r.subject}</td>
-                          <td className="px-4 py-2 text-xs sm:text-sm">{r.thPr}</td>
-                          <td className="px-4 py-2 text-xs sm:text-sm">{r.creditHours}</td>
-                          <td className="px-4 py-2 text-xs sm:text-sm">{r.gradePoint}</td>
-                          <td className="px-4 py-2 text-xs sm:text-sm">{r.creditPoint}</td>
-                          <td className="px-4 py-2 text-xs sm:text-sm">{r.grade}</td>
-                        </tr>
-                      ))}
-                    </tbody>
-                  </table>
-                </div>
-              )}
+            {student.expanded && (
+  <div className="mt-2">
+    <table className="min-w-full table-auto border-collapse">
+      <thead>
+        <tr className="bg-gray-200">
+          <th className="px-2 sm:px-4 py-2 border text-sm">Sl. No</th>
+          <th className="px-2 sm:px-4 py-2 border text-sm">Subject</th>
+          <th className="px-2 sm:px-4 py-2 border text-sm">Th/Pr</th>
+          <th className="px-2 sm:px-4 py-2 border text-sm">Credit Hours</th>
+          <th className="px-2 sm:px-4 py-2 border text-sm">Grade Point</th>
+          <th className="px-2 sm:px-4 py-2 border text-sm">Credit Point</th>
+          <th className="px-2 sm:px-4 py-2 border text-sm">Grade</th>
+        </tr>
+      </thead>
+      <tbody>
+        {student.results.map((r, i) => (
+          <tr key={i} className="border-b">
+            <td className="px-2 sm:px-4 py-2 text-center text-1 sm:text-sm">{r.slNo}</td>
+            <td className="px-2 sm:px-4 py-2 text-1 sm:text-sm">{r.subject}</td>
+            <td className="px-2 sm:px-4 py-2 text-1 sm:text-sm">{r.thPr}</td>
+            <td className="px-2 sm:px-4 py-2 text-1 sm:text-sm">{r.creditHours}</td>
+            <td className="px-2 sm:px-4 py-2 text-1 sm:text-sm">{r.gradePoint}</td>
+            <td className="px-2 sm:px-4 py-2 text-1 sm:text-sm">{r.creditPoint}</td>
+            <td className="px-2 sm:px-4 py-2 text-1 sm:text-sm">{r.grade}</td>
+          </tr>
+        ))}
+      </tbody>
+    </table>
+  </div>
+)}
+
             </div>
           ))}
         </div>

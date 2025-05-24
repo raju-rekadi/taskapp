@@ -1,0 +1,210 @@
+[
+  {
+    "hallTicket": "23CS0301",
+    "name": "ARADADI GAYATRI",
+    "results": [
+      {"slNo": "1", "subject": "Microcontroller Programing", "creditPoint": "32", "thPr": "Th.", "creditHours": 4, "gradePoint": 8, "grade": "A"},
+      {"slNo": "2", "subject": "Understanding India", "creditPoint": "14", "thPr": "Th.", "creditHours": 2, "gradePoint": 7, "grade": "B+"},
+      {"slNo": "3", "subject": "Environmental Studies/Education", "creditPoint": "16", "thPr": "Th.", "creditHours": 2, "gradePoint": 8, "grade": "A"},
+      {"slNo": "4", "subject": "Visual Programming With C Sharp", "creditPoint": "16", "thPr": "Th.", "creditHours": 2, "gradePoint": 8, "grade": "A"},
+      {"slNo": "5", "subject": "Health & Wellness/Yoga Education", "creditPoint": "18", "thPr": "Th.", "creditHours": 2, "gradePoint": 9, "grade": "A+"},
+      {"slNo": "6", "subject": "Microprocessor AND ALP", "creditPoint": "14", "thPr": "Th.", "creditHours": 4, "gradePoint": 3.5, "grade": "F"},
+      {"slNo": "7", "subject": "Digital Technologies", "creditPoint": "32", "thPr": "Th.", "creditHours": 2, "gradePoint": 16, "grade": "O"}
+    ]
+  },
+  {
+    "hallTicket": "23CS0302",
+    "name": "DANGETI KANAKA MAHA LAKSHMI",
+    "results": [
+      {"slNo": "1", "subject": "Microcontroller Programing", "creditPoint": "32", "thPr": "Th.", "creditHours": 4, "gradePoint": 8, "grade": "A"},
+      {"slNo": "2", "subject": "Understanding India", "creditPoint": "16", "thPr": "Th.", "creditHours": 2, "gradePoint": 8, "grade": "A"},
+      {"slNo": "3", "subject": "Environmental Studies/Education", "creditPoint": "16", "thPr": "Th.", "creditHours": 2, "gradePoint": 8, "grade": "A"},
+      {"slNo": "4", "subject": "Visual Programming With C Sharp", "creditPoint": "16", "thPr": "Th.", "creditHours": 2, "gradePoint": 8, "grade": "A"},
+      {"slNo": "5", "subject": "Health & Wellness/Yoga Education", "creditPoint": "14", "thPr": "Th.", "creditHours": 2, "gradePoint": 7, "grade": "B+"},
+      {"slNo": "6", "subject": "Microprocessor AND ALP", "creditPoint": "14", "thPr": "Th.", "creditHours": 4, "gradePoint": 3.5, "grade": "F"},
+      {"slNo": "7", "subject": "Digital Technologies", "creditPoint": "32", "thPr": "Th.", "creditHours": 2, "gradePoint": 16, "grade": "O"}
+    ]
+  },
+  {
+    "hallTicket": "23CS0303",
+    "name": "KAMADI PUSHPA",
+    "results": [
+      {"slNo": "1", "subject": "Microcontroller Programing", "creditPoint": "32", "thPr": "Th.", "creditHours": 4, "gradePoint": 8, "grade": "A"},
+      {"slNo": "2", "subject": "Understanding India", "creditPoint": "14", "thPr": "Th.", "creditHours": 2, "gradePoint": 7, "grade": "B+"},
+      {"slNo": "3", "subject": "Environmental Studies/Education", "creditPoint": "12", "thPr": "Th.", "creditHours": 2, "gradePoint": 6, "grade": "B"},
+      {"slNo": "4", "subject": "Visual Programming With C Sharp", "creditPoint": "14", "thPr": "Th.", "creditHours": 2, "gradePoint": 7, "grade": "B+"},
+      {"slNo": "5", "subject": "Health & Wellness/Yoga Education", "creditPoint": "14", "thPr": "Th.", "creditHours": 2, "gradePoint": 7, "grade": "B+"},
+      {"slNo": "6", "subject": "Microprocessor AND ALP", "creditPoint": "12", "thPr": "Th.", "creditHours": 4, "gradePoint": 3, "grade": "F"},
+      {"slNo": "7", "subject": "Digital Technologies", "creditPoint": "32", "thPr": "Th.", "creditHours": 2, "gradePoint": 16, "grade": "O"}
+    ]
+  },
+  {
+    "hallTicket": "23CS0304",
+    "name": "KANDULA NAGA DURGA DEVI",
+    "results": [
+      {"slNo": "1", "subject": "Microcontroller Programing", "creditPoint": "28", "thPr": "Th.", "creditHours": 4, "gradePoint": 7, "grade": "B+"},
+      {"slNo": "2", "subject": "Understanding India", "creditPoint": "16", "thPr": "Th.", "creditHours": 2, "gradePoint": 8, "grade": "A"},
+      {"slNo": "3", "subject": "Environmental Studies/Education", "creditPoint": "14", "thPr": "Th.", "creditHours": 2, "gradePoint": 7, "grade": "B+"},
+      {"slNo": "4", "subject": "Visual Programming With C Sharp", "creditPoint": "16", "thPr": "Th.", "creditHours": 2, "gradePoint": 8, "grade": "A"},
+      {"slNo": "5", "subject": "Health & Wellness/Yoga Education", "creditPoint": "14", "thPr": "Th.", "creditHours": 2, "gradePoint": 7, "grade": "B+"},
+      {"slNo": "6", "subject": "Microprocessor AND ALP", "creditPoint": "12", "thPr": "Th.", "creditHours": 4, "gradePoint": 3, "grade": "F"},
+      {"slNo": "7", "subject": "Digital Technologies", "creditPoint": "28", "thPr": "Th.", "creditHours": 2, "gradePoint": 14, "grade": "A+"}
+    ]
+  },
+  {
+    "hallTicket": "23CS0305",
+    "name": "KODURI SATYA PREMA KUMARI",
+    "results": [
+      {"slNo": "1", "subject": "Microcontroller Programing", "creditPoint": "36", "thPr": "Th.", "creditHours": 4, "gradePoint": 9, "grade": "A+"},
+      {"slNo": "2", "subject": "Understanding India", "creditPoint": "14", "thPr": "Th.", "creditHours": 2, "gradePoint": 7, "grade": "B+"},
+      {"slNo": "3", "subject": "Environmental Studies/Education", "creditPoint": "14", "thPr": "Th.", "creditHours": 2, "gradePoint": 7, "grade": "B+"},
+      {"slNo": "4", "subject": "Visual Programming With C Sharp", "creditPoint": "16", "thPr": "Th.", "creditHours": 2, "gradePoint": 8, "grade": "A"},
+      {"slNo": "5", "subject": "Health & Wellness/Yoga Education", "creditPoint": "16", "thPr": "Th.", "creditHours": 2, "gradePoint": 8, "grade": "A"},
+      {"slNo": "6", "subject": "Microprocessor AND ALP", "creditPoint": "14", "thPr": "Th.", "creditHours": 4, "gradePoint": 3.5, "grade": "F"},
+      {"slNo": "7", "subject": "Digital Technologies", "creditPoint": "32", "thPr": "Th.", "creditHours": 2, "gradePoint": 16, "grade": "O"}
+    ]
+  },
+  {
+    "hallTicket": "23CS0306",
+    "name": "KORLAPATI LAKSHMI DEVI",
+    "results": [
+      {"slNo": "1", "subject": "Microcontroller Programing", "creditPoint": "24", "thPr": "Th.", "creditHours": 4, "gradePoint": 6, "grade": "B"},
+      {"slNo": "2", "subject": "Understanding India", "creditPoint": "10", "thPr": "Th.", "creditHours": 2, "gradePoint": 5, "grade": "C"},
+      {"slNo": "3", "subject": "Environmental Studies/Education", "creditPoint": "12", "thPr": "Th.", "creditHours": 2, "gradePoint": 6, "grade": "B"},
+      {"slNo": "4", "subject": "Visual Programming With C Sharp", "creditPoint": "12", "thPr": "Th.", "creditHours": 2, "gradePoint": 6, "grade": "B"},
+      {"slNo": "5", "subject": "Health & Wellness/Yoga Education", "creditPoint": "12", "thPr": "Th.", "creditHours": 2, "gradePoint": 6, "grade": "B"},
+      {"slNo": "6", "subject": "Microprocessor AND ALP", "creditPoint": "10", "thPr": "Th.", "creditHours": 4, "gradePoint": 2.5, "grade": "F"},
+      {"slNo": "7", "subject": "Digital Technologies", "creditPoint": "24", "thPr": "Th.", "creditHours": 2, "gradePoint": 12, "grade": "A"}
+    ]
+  },
+  {
+    "hallTicket": "23CS0307",
+    "name": "KOSETTI YAZNA MOUNIKA",
+    "results": [
+      {"slNo": "1", "subject": "Microcontroller Programing", "creditPoint": "36", "thPr": "Th.", "creditHours": 4, "gradePoint": 9, "grade": "A+"},
+      {"slNo": "2", "subject": "Understanding India", "creditPoint": "12", "thPr": "Th.", "creditHours": 2, "gradePoint": 6, "grade": "B"},
+      {"slNo": "3", "subject": "Environmental Studies/Education", "creditPoint": "16", "thPr": "Th.", "creditHours": 2, "gradePoint": 8, "grade": "A"},
+      {"slNo": "4", "subject": "Visual Programming With C Sharp", "creditPoint": "16", "thPr": "Th.", "creditHours": 2, "gradePoint": 8, "grade": "A"},
+      {"slNo": "5", "subject": "Health & Wellness/Yoga Education", "creditPoint": "16", "thPr": "Th.", "creditHours": 2, "gradePoint": 8, "grade": "A"},
+      {"slNo": "6", "subject": "Microprocessor AND ALP", "creditPoint": "14", "thPr": "Th.", "creditHours": 4, "gradePoint": 3.5, "grade": "F"},
+      {"slNo": "7", "subject": "Digital Technologies", "creditPoint": "32", "thPr": "Th.", "creditHours": 2, "gradePoint": 16, "grade": "O"}
+    ]
+  },
+  {
+    "hallTicket": "23CS0308",
+    "name": "KOTTURI DIVYA SRI",
+    "results": [
+      {"slNo": "1", "subject": "Microcontroller Programing", "creditPoint": "32", "thPr": "Th.", "creditHours": 4, "gradePoint": 8, "grade": "A"},
+      {"slNo": "2", "subject": "Understanding India", "creditPoint": "12", "thPr": "Th.", "creditHours": 2, "gradePoint": 6, "grade": "B"},
+      {"slNo": "3", "subject": "Environmental Studies/Education", "creditPoint": "12", "thPr": "Th.", "creditHours": 2, "gradePoint": 6, "grade": "B"},
+      {"slNo": "4", "subject": "Visual Programming With C Sharp", "creditPoint": "14", "thPr": "Th.", "creditHours": 2, "gradePoint": 7, "grade": "B+"},
+      {"slNo": "5", "subject": "Health & Wellness/Yoga Education", "creditPoint": "14", "thPr": "Th.", "creditHours": 2, "gradePoint": 7, "grade": "B+"},
+      {"slNo": "6", "subject": "Microprocessor AND ALP", "creditPoint": "12", "thPr": "Th.", "creditHours": 4, "gradePoint": 3, "grade": "F"},
+      {"slNo": "7", "subject": "Digital Technologies", "creditPoint": "32", "thPr": "Th.", "creditHours": 2, "gradePoint": 16, "grade": "O"}
+    ]
+  },
+  {
+    "hallTicket": "23CS0311",
+    "name": "MALLIPUDI SHARISHMA SRI VADHANA",
+    "results": [
+      {"slNo": "1", "subject": "Microcontroller Programing", "creditPoint": "28", "thPr": "Th.", "creditHours": 4, "gradePoint": 7, "grade": "B+"},
+      {"slNo": "2", "subject": "Understanding India", "creditPoint": "14", "thPr": "Th.", "creditHours": 2, "gradePoint": 7, "grade": "B+"},
+      {"slNo": "3", "subject": "Environmental Studies/Education", "creditPoint": "12", "thPr": "Th.", "creditHours": 2, "gradePoint": 6, "grade": "B"},
+      {"slNo": "4", "subject": "Visual Programming With C Sharp", "creditPoint": "14", "thPr": "Th.", "creditHours": 2, "gradePoint": 7, "grade": "B+"},
+      {"slNo": "5", "subject": "Health & Wellness/Yoga Education", "creditPoint": "16", "thPr": "Th.", "creditHours": 2, "gradePoint": 8, "grade": "A"},
+      {"slNo": "6", "subject": "Microprocessor AND ALP", "creditPoint": "12", "thPr": "Th.", "creditHours": 4, "gradePoint": 3, "grade": "F"},
+      {"slNo": "7", "subject": "Digital Technologies", "creditPoint": "28", "thPr": "Th.", "creditHours": 2, "gradePoint": 14, "grade": "A+"}
+    ]
+  },
+  {
+    "hallTicket": "23CS0312",
+    "name": "MATTAPARTHI DEEPTHI NAGA MALLESWARI",
+    "results": [
+      {"slNo": "1", "subject": "Microcontroller Programing", "creditPoint": "32", "thPr": "Th.", "creditHours": 4, "gradePoint": 8, "grade": "A"},
+      {"slNo": "2", "subject": "Understanding India", "creditPoint": "16", "thPr": "Th.", "creditHours": 2, "gradePoint": 8, "grade": "A"},
+      {"slNo": "3", "subject": "Environmental Studies/Education", "creditPoint": "16", "thPr": "Th.", "creditHours": 2, "gradePoint": 8, "grade": "A"},
+      {"slNo": "4", "subject": "Visual Programming With C Sharp", "creditPoint": "16", "thPr": "Th.", "creditHours": 2, "gradePoint": 8, "grade": "A"},
+      {"slNo": "5", "subject": "Health & Wellness/Yoga Education", "creditPoint": "16", "thPr": "Th.", "creditHours": 2, "gradePoint": 8, "grade": "A"},
+      {"slNo": "6", "subject": "Microprocessor AND ALP", "creditPoint": "14", "thPr": "Th.", "creditHours": 4, "gradePoint": 3.5, "grade": "F"},
+      {"slNo": "7", "subject": "Digital Technologies", "creditPoint": "32", "thPr": "Th.", "creditHours": 2, "gradePoint": 16, "grade": "O"}
+    ]
+  },
+  {
+    "hallTicket": "23CS0313",
+    "name": "MATTAPARTHI SIVANNARAYANA",
+    "results": [
+      {"slNo": "1", "subject": "Microcontroller Programing", "creditPoint": "24", "thPr": "Th.", "creditHours": 4, "gradePoint": 6, "grade": "B"},
+      {"slNo": "2", "subject": "Understanding India", "creditPoint": "14", "thPr": "Th.", "creditHours": 2, "gradePoint": 7, "grade": "B+"},
+      {"slNo": "3", "subject": "Environmental Studies/Education", "creditPoint": "12", "thPr": "Th.", "creditHours": 2, "gradePoint": 6, "grade": "B"},
+      {"slNo": "4", "subject": "Visual Programming With C Sharp", "creditPoint": "12", "thPr": "Th.", "creditHours": 2, "gradePoint": 6, "grade": "B"},
+      {"slNo": "5", "subject": "Health & Wellness/Yoga Education", "creditPoint": "14", "thPr": "Th.", "creditHours": 2, "gradePoint": 7, "grade": "B+"},
+      {"slNo": "6", "subject": "Microprocessor AND ALP", "creditPoint": "10", "thPr": "Th.", "creditHours": 4, "gradePoint": 2.5, "grade": "F"},
+      {"slNo": "7", "subject": "Digital Technologies", "creditPoint": "24", "thPr": "Th.", "creditHours": 2, "gradePoint": 12, "grade": "A"}
+    ]
+  },
+  {
+    "hallTicket": "23CS0315",
+    "name": "MEDA VENKATA SATISH",
+    "results": [
+      {"slNo": "1", "subject": "Microcontroller Programing", "creditPoint": "20", "thPr": "Th.", "creditHours": 4, "gradePoint": 5, "grade": "C"},
+      {"slNo": "2", "subject": "Understanding India", "creditPoint": "12", "thPr": "Th.", "creditHours": 2, "gradePoint": 6, "grade": "B"},
+      {"slNo": "3", "subject": "Environmental Studies/Education", "creditPoint": "10", "thPr": "Th.", "creditHours": 2, "gradePoint": 5, "grade": "C"},
+      {"slNo": "4", "subject": "Visual Programming With C Sharp", "creditPoint": "12", "thPr": "Th.", "creditHours": 2, "gradePoint": 6, "grade": "B"},
+      {"slNo": "5", "subject": "Health & Wellness/Yoga Education", "creditPoint": "12", "thPr": "Th.", "creditHours": 2, "gradePoint": 6, "grade": "B"},
+      {"slNo": "6", "subject": "Microprocessor AND ALP", "creditPoint": "8", "thPr": "Th.", "creditHours": 4, "gradePoint": 2, "grade": "F"},
+      {"slNo": "7", "subject": "Digital Technologies", "creditPoint": "24", "thPr": "Th.", "creditHours": 2, "gradePoint": 12, "grade": "A"}
+    ]
+  },
+  {
+    "hallTicket": "23CS0318",
+    "name": "PANTHAM VARA PRADAD",
+    "results": [
+      {"slNo": "1", "subject": "Microcontroller Programing", "creditPoint": "24", "thPr": "Th.", "creditHours": 4, "gradePoint": 6, "grade": "B"},
+      {"slNo": "2", "subject": "Understanding India", "creditPoint": "14", "thPr": "Th.", "creditHours": 2, "gradePoint": 7, "grade": "B+"},
+      {"slNo": "3", "subject": "Environmental Studies/Education", "creditPoint": "12", "thPr": "Th.", "creditHours": 2, "gradePoint": 6, "grade": "B"},
+      {"slNo": "4", "subject": "Visual Programming With C Sharp", "creditPoint": "10", "thPr": "Th.", "creditHours": 2, "gradePoint": 5, "grade": "C"},
+      {"slNo": "5", "subject": "Health & Wellness/Yoga Education", "creditPoint": "12", "thPr": "Th.", "creditHours": 2, "gradePoint": 6, "grade": "B"},
+      {"slNo": "6", "subject": "Microprocessor AND ALP", "creditPoint": "10", "thPr": "Th.", "creditHours": 4, "gradePoint": 2.5, "grade": "F"},
+      {"slNo": "7", "subject": "Digital Technologies", "creditPoint": "20", "thPr": "Th.", "creditHours": 2, "gradePoint": 10, "grade": "O"}
+    ]
+  },
+  {
+    "hallTicket": "23CS0319",
+    "name": "POLISETTY SADVIKA",
+    "results": [
+      {"slNo": "1", "subject": "Microcontroller Programing", "creditPoint": "24", "thPr": "Th.", "creditHours": 4, "gradePoint": 6, "grade": "B"},
+      {"slNo": "2", "subject": "Understanding India", "creditPoint": "10", "thPr": "Th.", "creditHours": 2, "gradePoint": 5, "grade": "C"},
+      {"slNo": "3", "subject": "Environmental Studies/Education", "creditPoint": "12", "thPr": "Th.", "creditHours": 2, "gradePoint": 6, "grade": "B"},
+      {"slNo": "4", "subject": "Visual Programming With C Sharp", "creditPoint": "12", "thPr": "Th.", "creditHours": 2, "gradePoint": 6, "grade": "B"},
+      {"slNo": "5", "subject": "Health & Wellness/Yoga Education", "creditPoint": "10", "thPr": "Th.", "creditHours": 2, "gradePoint": 5, "grade": "C"},
+      {"slNo": "6", "subject": "Microprocessor AND ALP", "creditPoint": "10", "thPr": "Th.", "creditHours": 4, "gradePoint": 2.5, "grade": "F"},
+      {"slNo": "7", "subject": "Digital Technologies", "creditPoint": "24", "thPr": "Th.", "creditHours": 2, "gradePoint": 12, "grade": "A"}
+    ]
+  },
+  {
+    "hallTicket": "23CS0322",
+    "name": "VANKAYALA MANASA LAKSHMI MYTHRI",
+    "results": [
+      {"slNo": "1", "subject": "Microcontroller Programing", "creditPoint": "24", "thPr": "Th.", "creditHours": 4, "gradePoint": 6, "grade": "B"},
+      {"slNo": "2", "subject": "Understanding India", "creditPoint": "14", "thPr": "Th.", "creditHours": 2, "gradePoint": 7, "grade": "B+"},
+      {"slNo": "3", "subject": "Environmental Studies/Education", "creditPoint": "14", "thPr": "Th.", "creditHours": 2, "gradePoint": 7, "grade": "B+"},
+      {"slNo": "4", "subject": "Visual Programming With C Sharp", "creditPoint": "10", "thPr": "Th.", "creditHours": 2, "gradePoint": 5, "grade": "C"},
+      {"slNo": "5", "subject": "Health & Wellness/Yoga Education", "creditPoint": "14", "thPr": "Th.", "creditHours": 2, "gradePoint": 7, "grade": "B+"},
+      {"slNo": "6", "subject": "Microprocessor AND ALP", "creditPoint": "12", "thPr": "Th.", "creditHours": 4, "gradePoint": 3, "grade": "F"},
+      {"slNo": "7", "subject": "Digital Technologies", "creditPoint": "28", "thPr": "Th.", "creditHours": 2, "gradePoint": 14, "grade": "A+"}
+    ]
+  },
+  {
+    "hallTicket": "23CS0323",
+    "name": "VOGGU SAI VENKATA KANAKA DURGA",
+    "results": [
+      {"slNo": "1", "subject": "Microcontroller Programing", "creditPoint": "24", "thPr": "Th.", "creditHours": 4, "gradePoint": 6, "grade": "B"},
+      {"slNo": "2", "subject": "Understanding India", "creditPoint": "14", "thPr": "Th.", "creditHours": 2, "gradePoint": 7, "grade": "B+"},
+      {"slNo": "3", "subject": "Environmental Studies/Education", "creditPoint": "14", "thPr": "Th.", "creditHours": 2, "gradePoint": 7, "grade": "B+"},
+      {"slNo": "4", "subject": "Visual Programming With C Sharp", "creditPoint": "12", "thPr": "Th.", "creditHours": 2, "gradePoint": 6, "grade": "B"},
+      {"slNo": "5", "subject": "Health & Wellness/Yoga Education", "creditPoint": "12", "thPr": "Th.", "creditHours": 2, "gradePoint": 6, "grade": "B"},
+      {"slNo": "6", "subject": "Microprocessor AND ALP", "creditPoint": "12", "thPr": "Th.", "creditHours": 4, "gradePoint": 3, "grade": "F"},
+      {"slNo": "7", "subject": "Digital Technologies", "creditPoint": "24", "thPr": "Th.", "creditHours": 2, "gradePoint": 12, "grade": "A"}
+    ]
+  }
+]

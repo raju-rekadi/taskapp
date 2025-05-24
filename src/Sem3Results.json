@@ -540,10 +540,6 @@
         ]
     },
     {
-        "hallTicket": "23CS0310",
-        "results": []
-    },
-    {
         "hallTicket": "23CS0311",
         "name": "MALLIPUDI SHARISHMA SRI VADHANA",
         "results": [
@@ -1144,10 +1140,6 @@
         ]
     },
     {
-        "hallTicket": "23CS0321",
-        "results": []
-    },
-    {
         "hallTicket": "23CS0322",
         "name": "VANKAYALA MANASA LAKSHMI MYTHRI",
         "results": [
@@ -1266,13 +1258,5 @@
                 "grade": "B+"
             }
         ]
-    },
-    {
-        "hallTicket": "23CS0324",
-        "results": []
-    },
-    {
-        "hallTicket": "23CS0325",
-        "results": []
     }
 ]

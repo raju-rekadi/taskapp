@@ -1,0 +1,210 @@
+[
+  {
+    "hallTicket": "23CS0301",
+    "name": "ARADADI GAYATRI",
+    "results": [
+      {"slNo": "1", "subject": "English-I", "creditPoint": "15", "thPr": "Th.", "creditHours": 3, "gradePoint": 5, "grade": "C"},
+      {"slNo": "2", "subject": "Introduction To Public Administration", "creditPoint": "16", "thPr": "Th.", "creditHours": 2, "gradePoint": 8, "grade": "A"},
+      {"slNo": "3", "subject": "Programming In C Lab", "creditPoint": "18", "thPr": "Lab", "creditHours": 2, "gradePoint": 9, "grade": "A+"},
+      {"slNo": "4", "subject": "Digital Lab", "creditPoint": "18", "thPr": "Lab", "creditHours": 2, "gradePoint": 9, "grade": "A+"},
+      {"slNo": "5", "subject": "Introduction To Problem Solving Using C", "creditPoint": "27", "thPr": "Th.", "creditHours": 3, "gradePoint": 9, "grade": "A+"},
+      {"slNo": "6", "subject": "Digital Logic & Computer Organization", "creditPoint": "24", "thPr": "Th.", "creditHours": 3, "gradePoint": 8, "grade": "A"},
+      {"slNo": "7", "subject": "Telugu-I", "creditPoint": "24", "thPr": "Th.", "creditHours": 3, "gradePoint": 8, "grade": "A"}
+    ]
+  },
+  {
+    "hallTicket": "23CS0302",
+    "name": "DANGETI KANAKA MAHA LAKSHMI",
+    "results": [
+      {"slNo": "1", "subject": "English-I", "creditPoint": "18", "thPr": "Th.", "creditHours": 3, "gradePoint": 6, "grade": "B"},
+      {"slNo": "2", "subject": "Introduction To Public Administration", "creditPoint": "12", "thPr": "Th.", "creditHours": 2, "gradePoint": 6, "grade": "B"},
+      {"slNo": "3", "subject": "Programming In C Lab", "creditPoint": "20", "thPr": "Lab", "creditHours": 2, "gradePoint": 10, "grade": "O"},
+      {"slNo": "4", "subject": "Digital Lab", "creditPoint": "20", "thPr": "Lab", "creditHours": 2, "gradePoint": 10, "grade": "O"},
+      {"slNo": "5", "subject": "Introduction To Problem Solving Using C", "creditPoint": "24", "thPr": "Th.", "creditHours": 3, "gradePoint": 8, "grade": "A"},
+      {"slNo": "6", "subject": "Digital Logic & Computer Organization", "creditPoint": "27", "thPr": "Th.", "creditHours": 3, "gradePoint": 9, "grade": "A+"},
+      {"slNo": "7", "subject": "Telugu-I", "creditPoint": "21", "thPr": "Th.", "creditHours": 3, "gradePoint": 7, "grade": "B+"}
+    ]
+  },
+  {
+    "hallTicket": "23CS0303",
+    "name": "KAMADI PUSHPA",
+    "results": [
+      {"slNo": "1", "subject": "English-I", "creditPoint": "15", "thPr": "Th.", "creditHours": 3, "gradePoint": 5, "grade": "C"},
+      {"slNo": "2", "subject": "Introduction To Public Administration", "creditPoint": "12", "thPr": "Th.", "creditHours": 2, "gradePoint": 6, "grade": "B"},
+      {"slNo": "3", "subject": "Programming In C Lab", "creditPoint": "18", "thPr": "Lab", "creditHours": 2, "gradePoint": 9, "grade": "A+"},
+      {"slNo": "4", "subject": "Digital Lab", "creditPoint": "18", "thPr": "Lab", "creditHours": 2, "gradePoint": 9, "grade": "A+"},
+      {"slNo": "5", "subject": "Introduction To Problem Solving Using C", "creditPoint": "18", "thPr": "Th.", "creditHours": 3, "gradePoint": 6, "grade": "B"},
+      {"slNo": "6", "subject": "Digital Logic & Computer Organization", "creditPoint": "24", "thPr": "Th.", "creditHours": 3, "gradePoint": 8, "grade": "A"},
+      {"slNo": "7", "subject": "Telugu-I", "creditPoint": "21", "thPr": "Th.", "creditHours": 3, "gradePoint": 7, "grade": "B+"}
+    ]
+  },
+  {
+    "hallTicket": "23CS0304",
+    "name": "KANDULA NAGA DURGA DEVI",
+    "results": [
+      {"slNo": "1", "subject": "English-I", "creditPoint": "15", "thPr": "Th.", "creditHours": 3, "gradePoint": 5, "grade": "C"},
+      {"slNo": "2", "subject": "Introduction To Public Administration", "creditPoint": "12", "thPr": "Th.", "creditHours": 2, "gradePoint": 6, "grade": "B"},
+      {"slNo": "3", "subject": "Programming In C Lab", "creditPoint": "18", "thPr": "Lab", "creditHours": 2, "gradePoint": 9, "grade": "A+"},
+      {"slNo": "4", "subject": "Digital Lab", "creditPoint": "18", "thPr": "Lab", "creditHours": 2, "gradePoint": 9, "grade": "A+"},
+      {"slNo": "5", "subject": "Introduction To Problem Solving Using C", "creditPoint": "18", "thPr": "Th.", "creditHours": 3, "gradePoint": 6, "grade": "B"},
+      {"slNo": "6", "subject": "Digital Logic & Computer Organization", "creditPoint": "18", "thPr": "Th.", "creditHours": 3, "gradePoint": 6, "grade": "B"},
+      {"slNo": "7", "subject": "Telugu-I", "creditPoint": "18", "thPr": "Th.", "creditHours": 3, "gradePoint": 6, "grade": "B"}
+    ]
+  },
+  {
+    "hallTicket": "23CS0305",
+    "name": "KODURI SATYA PREMA KUMARI",
+    "results": [
+      {"slNo": "1", "subject": "English-I", "creditPoint": "18", "thPr": "Th.", "creditHours": 3, "gradePoint": 6, "grade": "B"},
+      {"slNo": "2", "subject": "Introduction To Public Administration", "creditPoint": "16", "thPr": "Th.", "creditHours": 2, "gradePoint": 8, "grade": "A"},
+      {"slNo": "3", "subject": "Programming In C Lab", "creditPoint": "20", "thPr": "Lab", "creditHours": 2, "gradePoint": 10, "grade": "O"},
+      {"slNo": "4", "subject": "Digital Lab", "creditPoint": "14", "thPr": "Lab", "creditHours": 2, "gradePoint": 7, "grade": "B+"},
+      {"slNo": "5", "subject": "Introduction To Problem Solving Using C", "creditPoint": "24", "thPr": "Th.", "creditHours": 3, "gradePoint": 8, "grade": "A"},
+      {"slNo": "6", "subject": "Digital Logic & Computer Organization", "creditPoint": "24", "thPr": "Th.", "creditHours": 3, "gradePoint": 8, "grade": "A"},
+      {"slNo": "7", "subject": "Telugu-I", "creditPoint": "21", "thPr": "Th.", "creditHours": 3, "gradePoint": 7, "grade": "B+"}
+    ]
+  },
+  {
+    "hallTicket": "23CS0306",
+    "name": "KORLAPATI LAKSHMI DEVI",
+    "results": [
+      {"slNo": "1", "subject": "English-I", "creditPoint": "15", "thPr": "Th.", "creditHours": 3, "gradePoint": 5, "grade": "C"},
+      {"slNo": "2", "subject": "Introduction To Public Administration", "creditPoint": "15", "thPr": "Th.", "creditHours": 2, "gradePoint": 7.5, "grade": "B+"},
+      {"slNo": "3", "subject": "Programming In C Lab", "creditPoint": "14", "thPr": "Lab", "creditHours": 2, "gradePoint": 7, "grade": "B+"},
+      {"slNo": "4", "subject": "Digital Lab", "creditPoint": "14", "thPr": "Lab", "creditHours": 2, "gradePoint": 7, "grade": "B+"},
+      {"slNo": "5", "subject": "Introduction To Problem Solving Using C", "creditPoint": "15", "thPr": "Th.", "creditHours": 3, "gradePoint": 5, "grade": "C"},
+      {"slNo": "6", "subject": "Digital Logic & Computer Organization", "creditPoint": "15", "thPr": "Th.", "creditHours": 3, "gradePoint": 5, "grade": "C"},
+      {"slNo": "7", "subject": "Telugu-I", "creditPoint": "15", "thPr": "Th.", "creditHours": 3, "gradePoint": 5, "grade": "C"}
+    ]
+  },
+  {
+    "hallTicket": "23CS0307",
+    "name": "KOSETTI YAZNA MOUNIKA",
+    "results": [
+      {"slNo": "1", "subject": "English-I", "creditPoint": "15", "thPr": "Th.", "creditHours": 3, "gradePoint": 5, "grade": "C"},
+      {"slNo": "2", "subject": "Introduction To Public Administration", "creditPoint": "14", "thPr": "Th.", "creditHours": 2, "gradePoint": 7, "grade": "B+"},
+      {"slNo": "3", "subject": "Programming In C Lab", "creditPoint": "18", "thPr": "Lab", "creditHours": 2, "gradePoint": 9, "grade": "A+"},
+      {"slNo": "4", "subject": "Digital Lab", "creditPoint": "18", "thPr": "Lab", "creditHours": 2, "gradePoint": 9, "grade": "A+"},
+      {"slNo": "5", "subject": "Introduction To Problem Solving Using C", "creditPoint": "15", "thPr": "Th.", "creditHours": 3, "gradePoint": 5, "grade": "C"},
+      {"slNo": "6", "subject": "Digital Logic & Computer Organization", "creditPoint": "21", "thPr": "Th.", "creditHours": 3, "gradePoint": 7, "grade": "B+"},
+      {"slNo": "7", "subject": "Telugu-I", "creditPoint": "21", "thPr": "Th.", "creditHours": 3, "gradePoint": 7, "grade": "B+"}
+    ]
+  },
+  {
+    "hallTicket": "23CS0308",
+    "name": "KOTTURI DIVYA SRI",
+    "results": [
+      {"slNo": "1", "subject": "English-I", "creditPoint": "15", "thPr": "Th.", "creditHours": 3, "gradePoint": 5, "grade": "C"},
+      {"slNo": "2", "subject": "Introduction To Public Administration", "creditPoint": "12", "thPr": "Th.", "creditHours": 2, "gradePoint": 6, "grade": "B"},
+      {"slNo": "3", "subject": "Programming In C Lab", "creditPoint": "18", "thPr": "Lab", "creditHours": 2, "gradePoint": 9, "grade": "A+"},
+      {"slNo": "4", "subject": "Digital Lab", "creditPoint": "14", "thPr": "Lab", "creditHours": 2, "gradePoint": 7, "grade": "B+"},
+      {"slNo": "5", "subject": "Introduction To Problem Solving Using C", "creditPoint": "18", "thPr": "Th.", "creditHours": 3, "gradePoint": 6, "grade": "B"},
+      {"slNo": "6", "subject": "Digital Logic & Computer Organization", "creditPoint": "21", "thPr": "Th.", "creditHours": 3, "gradePoint": 7, "grade": "B+"},
+      {"slNo": "7", "subject": "Telugu-I", "creditPoint": "21", "thPr": "Th.", "creditHours": 3, "gradePoint": 7, "grade": "B+"}
+    ]
+  },
+  {
+    "hallTicket": "23CS0311",
+    "name": "MALLIPUDI SHARISHMA SRI VADHANA",
+    "results": [
+      {"slNo": "1", "subject": "English-I", "creditPoint": "15", "thPr": "Th.", "creditHours": 3, "gradePoint": 5, "grade": "C"},
+      {"slNo": "2", "subject": "Introduction To Public Administration", "creditPoint": "12", "thPr": "Th.", "creditHours": 2, "gradePoint": 6, "grade": "B"},
+      {"slNo": "3", "subject": "Programming In C Lab", "creditPoint": "18", "thPr": "Lab", "creditHours": 2, "gradePoint": 9, "grade": "A+"},
+      {"slNo": "4", "subject": "Digital Lab", "creditPoint": "14", "thPr": "Lab", "creditHours": 2, "gradePoint": 7, "grade": "B+"},
+      {"slNo": "5", "subject": "Introduction To Problem Solving Using C", "creditPoint": "18", "thPr": "Th.", "creditHours": 3, "gradePoint": 6, "grade": "B"},
+      {"slNo": "6", "subject": "Digital Logic & Computer Organization", "creditPoint": "21", "thPr": "Th.", "creditHours": 3, "gradePoint": 7, "grade": "B+"},
+      {"slNo": "7", "subject": "Telugu-I", "creditPoint": "18", "thPr": "Th.", "creditHours": 3, "gradePoint": 6, "grade": "B"}
+    ]
+  },
+  {
+    "hallTicket": "23CS0312",
+    "name": "MATTAPARTHI DEEPTHI NAGA MALLESWARI",
+    "results": [
+      {"slNo": "1", "subject": "English-I", "creditPoint": "15", "thPr": "Th.", "creditHours": 3, "gradePoint": 5, "grade": "C"},
+      {"slNo": "2", "subject": "Introduction To Public Administration", "creditPoint": "14", "thPr": "Th.", "creditHours": 2, "gradePoint": 7, "grade": "B+"},
+      {"slNo": "3", "subject": "Programming In C Lab", "creditPoint": "20", "thPr": "Lab", "creditHours": 2, "gradePoint": 10, "grade": "O"},
+      {"slNo": "4", "subject": "Digital Lab", "creditPoint": "20", "thPr": "Lab", "creditHours": 2, "gradePoint": 10, "grade": "O"},
+      {"slNo": "5", "subject": "Introduction To Problem Solving Using C", "creditPoint": "21", "thPr": "Th.", "creditHours": 3, "gradePoint": 7, "grade": "B+"},
+      {"slNo": "6", "subject": "Digital Logic & Computer Organization", "creditPoint": "24", "thPr": "Th.", "creditHours": 3, "gradePoint": 8, "grade": "A"},
+      {"slNo": "7", "subject": "Telugu-I", "creditPoint": "18", "thPr": "Th.", "creditHours": 3, "gradePoint": 6, "grade": "B"}
+    ]
+  },
+  {
+    "hallTicket": "23CS0313",
+    "name": "MATTAPARTHI SIVANNARAYANA",
+    "results": [
+      {"slNo": "1", "subject": "English-I", "creditPoint": "18", "thPr": "Th.", "creditHours": 3, "gradePoint": 6, "grade": "B"},
+      {"slNo": "2", "subject": "Introduction To Public Administration", "creditPoint": "8", "thPr": "Th.", "creditHours": 2, "gradePoint": 4, "grade": "P"},
+      {"slNo": "3", "subject": "Programming In C Lab", "creditPoint": "18", "thPr": "Lab", "creditHours": 2, "gradePoint": 9, "grade": "A+"},
+      {"slNo": "4", "subject": "Digital Lab", "creditPoint": "12", "thPr": "Lab", "creditHours": 2, "gradePoint": 6, "grade": "B"},
+      {"slNo": "5", "subject": "Introduction To Problem Solving Using C", "creditPoint": "15", "thPr": "Th.", "creditHours": 3, "gradePoint": 5, "grade": "C"},
+      {"slNo": "6", "subject": "Digital Logic & Computer Organization", "creditPoint": "15", "thPr": "Th.", "creditHours": 3, "gradePoint": 5, "grade": "C"},
+      {"slNo": "7", "subject": "Telugu-I", "creditPoint": "15", "thPr": "Th.", "creditHours": 3, "gradePoint": 5, "grade": "C"}
+    ]
+  },
+  {
+    "hallTicket": "23CS0315",
+    "name": "MEDA VENKATA SATISH",
+    "results": [
+      {"slNo": "1", "subject": "English-I", "creditPoint": "15", "thPr": "Th.", "creditHours": 3, "gradePoint": 5, "grade": "C"},
+      {"slNo": "2", "subject": "Introduction To Public Administration", "creditPoint": "8", "thPr": "Th.", "creditHours": 2, "gradePoint": 4, "grade": "P"},
+      {"slNo": "3", "subject": "Programming In C Lab", "creditPoint": "16", "thPr": "Lab", "creditHours": 2, "gradePoint": 8, "grade": "A"},
+      {"slNo": "4", "subject": "Digital Lab", "creditPoint": "12", "thPr": "Lab", "creditHours": 2, "gradePoint": 6, "grade": "B"},
+      {"slNo": "5", "subject": "Introduction To Problem Solving Using C", "creditPoint": "12", "thPr": "Th.", "creditHours": 3, "gradePoint": 4, "grade": "P"},
+      {"slNo": "6", "subject": "Digital Logic & Computer Organization", "creditPoint": "12", "thPr": "Th.", "creditHours": 3, "gradePoint": 4, "grade": "P"},
+      {"slNo": "7", "subject": "Telugu-I", "creditPoint": "15", "thPr": "Th.", "creditHours": 3, "gradePoint": 5, "grade": "C"}
+    ]
+  },
+  {
+    "hallTicket": "23CS0318",
+    "name": "PANTHAM VARA PRADAD",
+    "results": [
+      {"slNo": "1", "subject": "English-I", "creditPoint": "15", "thPr": "Th.", "creditHours": 3, "gradePoint": 5, "grade": "C"},
+      {"slNo": "2", "subject": "Introduction To Public Administration", "creditPoint": "10", "thPr": "Th.", "creditHours": 2, "gradePoint": 5, "grade": "C"},
+      {"slNo": "3", "subject": "Programming In C Lab", "creditPoint": "14", "thPr": "Lab", "creditHours": 2, "gradePoint": 7, "grade": "B+"},
+      {"slNo": "4", "subject": "Digital Lab", "creditPoint": "14", "thPr": "Lab", "creditHours": 2, "gradePoint": 7, "grade": "B+"},
+      {"slNo": "5", "subject": "Introduction To Problem Solving Using C", "creditPoint": "15", "thPr": "Th.", "creditHours": 3, "gradePoint": 5, "grade": "C"},
+      {"slNo": "6", "subject": "Digital Logic & Computer Organization", "creditPoint": "12", "thPr": "Th.", "creditHours": 3, "gradePoint": 4, "grade": "P"},
+      {"slNo": "7", "subject": "Telugu-I", "creditPoint": "15", "thPr": "Th.", "creditHours": 3, "gradePoint": 5, "grade": "C"}
+    ]
+  },
+  {
+    "hallTicket": "23CS0319",
+    "name": "POLISETTY SADVIKA",
+    "results": [
+      {"slNo": "1", "subject": "English-I", "creditPoint": "15", "thPr": "Th.", "creditHours": 3, "gradePoint": 5, "grade": "C"},
+      {"slNo": "2", "subject": "Introduction To Public Administration", "creditPoint": "8", "thPr": "Th.", "creditHours": 2, "gradePoint": 4, "grade": "P"},
+      {"slNo": "3", "subject": "Programming In C Lab", "creditPoint": "16", "thPr": "Lab", "creditHours": 2, "gradePoint": 8, "grade": "A"},
+      {"slNo": "4", "subject": "Digital Lab", "creditPoint": "14", "thPr": "Lab", "creditHours": 2, "gradePoint": 7, "grade": "B+"},
+      {"slNo": "5", "subject": "Introduction To Problem Solving Using C", "creditPoint": "15", "thPr": "Th.", "creditHours": 3, "gradePoint": 5, "grade": "C"},
+      {"slNo": "6", "subject": "Digital Logic & Computer Organization", "creditPoint": "15", "thPr": "Th.", "creditHours": 3, "gradePoint": 5, "grade": "C"},
+      {"slNo": "7", "subject": "Telugu-I", "creditPoint": "12", "thPr": "Th.", "creditHours": 3, "gradePoint": 4, "grade": "P"}
+    ]
+  },
+  {
+    "hallTicket": "23CS0320",
+    "name": "SALADI DURGA",
+    "results": [
+      {"slNo": "1", "subject": "English-I", "creditPoint": "15", "thPr": "Th.", "creditHours": 3, "gradePoint": 5, "grade": "C"},
+      {"slNo": "2", "subject": "Introduction To Public Administration", "creditPoint": "10", "thPr": "Th.", "creditHours": 2, "gradePoint": 5, "grade": "C"},
+      {"slNo": "3", "subject": "Programming In C Lab", "creditPoint": "18", "thPr": "Lab", "creditHours": 2, "gradePoint": 9, "grade": "A+"},
+      {"slNo": "4", "subject": "Digital Lab", "creditPoint": "18", "thPr": "Lab", "creditHours": 2, "gradePoint": 9, "grade": "A+"},
+      {"slNo": "5", "subject": "Introduction To Problem Solving Using C", "creditPoint": "21", "thPr": "Th.", "creditHours": 3, "gradePoint": 7, "grade": "B+"},
+      {"slNo": "6", "subject": "Digital Logic & Computer Organization", "creditPoint": "24", "thPr": "Th.", "creditHours": 3, "gradePoint": 8, "grade": "A"},
+      {"slNo": "7", "subject": "Telugu-I", "creditPoint": "21", "thPr": "Th.", "creditHours": 3, "gradePoint": 7, "grade": "B+"}
+    ]
+  },
+  {
+    "hallTicket": "23CS0322",
+    "name": "VANKAYALA MANASA LAKSHMI MYTHRI",
+    "results": [
+      {"slNo": "1", "subject": "English-I", "creditPoint": "15", "thPr": "Th.", "creditHours": 3, "gradePoint": 5, "grade": "C"},
+      {"slNo": "2", "subject": "Introduction To Public Administration", "creditPoint": "12", "thPr": "Th.", "creditHours": 2, "gradePoint": 6, "grade": "B"},
+      {"slNo": "3", "subject": "Programming In C Lab", "creditPoint": "10", "thPr": "Lab", "creditHours": 2, "gradePoint": 5, "grade": "C"},
+      {"slNo": "4", "subject": "Digital Lab", "creditPoint": "12", "thPr": "Lab", "creditHours": 2, "gradePoint": 6, "grade": "B"},
+      {"slNo": "5", "subject": "Introduction To Problem Solving Using C", "creditPoint": "15", "thPr": "Th.", "creditHours": 3, "gradePoint": 5, "grade": "C"},
+      {"slNo": "6", "subject": "Digital Logic & Computer Organization", "creditPoint": "21", "thPr": "Th.", "creditHours": 3, "gradePoint": 7, "grade": "B+"},
+      {"slNo": "7", "subject": "Telugu-I", "creditPoint": "18", "thPr": "Th.", "creditHours": 3, "gradePoint": 6, "grade": "B"}
+    ]
+  }
+]

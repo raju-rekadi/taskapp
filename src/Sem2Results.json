@@ -8,8 +8,8 @@
       {"slNo": "3", "subject": "Environmental Studies/Education", "creditPoint": "16", "thPr": "Th.", "creditHours": 2, "gradePoint": 8, "grade": "A"},
       {"slNo": "4", "subject": "Visual Programming With C Sharp", "creditPoint": "16", "thPr": "Th.", "creditHours": 2, "gradePoint": 8, "grade": "A"},
       {"slNo": "5", "subject": "Health & Wellness/Yoga Education", "creditPoint": "18", "thPr": "Th.", "creditHours": 2, "gradePoint": 9, "grade": "A+"},
-      {"slNo": "6", "subject": "Microprocessor AND ALP", "creditPoint": "14", "thPr": "Th.", "creditHours": 4, "gradePoint": 3.5, "grade": "F"},
-      {"slNo": "7", "subject": "Digital Technologies", "creditPoint": "32", "thPr": "Th.", "creditHours": 2, "gradePoint": 16, "grade": "O"}
+      {"slNo": "6", "subject": "Microprocessor AND ALP", "creditPoint": "32", "thPr": "Th.", "creditHours": 4, "gradePoint": 8, "grade": "A"},
+      {"slNo": "7", "subject": "Digital Technologies", "creditPoint": "14", "thPr": "Th.", "creditHours": 2, "gradePoint": 7, "grade": "B+"}
     ]
   },
   {
@@ -21,8 +21,8 @@
       {"slNo": "3", "subject": "Environmental Studies/Education", "creditPoint": "16", "thPr": "Th.", "creditHours": 2, "gradePoint": 8, "grade": "A"},
       {"slNo": "4", "subject": "Visual Programming With C Sharp", "creditPoint": "16", "thPr": "Th.", "creditHours": 2, "gradePoint": 8, "grade": "A"},
       {"slNo": "5", "subject": "Health & Wellness/Yoga Education", "creditPoint": "14", "thPr": "Th.", "creditHours": 2, "gradePoint": 7, "grade": "B+"},
-      {"slNo": "6", "subject": "Microprocessor AND ALP", "creditPoint": "14", "thPr": "Th.", "creditHours": 4, "gradePoint": 3.5, "grade": "F"},
-      {"slNo": "7", "subject": "Digital Technologies", "creditPoint": "32", "thPr": "Th.", "creditHours": 2, "gradePoint": 16, "grade": "O"}
+      {"slNo": "6", "subject": "Microprocessor AND ALP", "creditPoint": "32", "thPr": "Th.", "creditHours": 4, "gradePoint": 8, "grade": "A"},
+      {"slNo": "7", "subject": "Digital Technologies", "creditPoint": "14", "thPr": "Th.", "creditHours": 2, "gradePoint": 7, "grade": "B+"}
     ]
   },
   {
@@ -34,8 +34,8 @@
       {"slNo": "3", "subject": "Environmental Studies/Education", "creditPoint": "12", "thPr": "Th.", "creditHours": 2, "gradePoint": 6, "grade": "B"},
       {"slNo": "4", "subject": "Visual Programming With C Sharp", "creditPoint": "14", "thPr": "Th.", "creditHours": 2, "gradePoint": 7, "grade": "B+"},
       {"slNo": "5", "subject": "Health & Wellness/Yoga Education", "creditPoint": "14", "thPr": "Th.", "creditHours": 2, "gradePoint": 7, "grade": "B+"},
-      {"slNo": "6", "subject": "Microprocessor AND ALP", "creditPoint": "12", "thPr": "Th.", "creditHours": 4, "gradePoint": 3, "grade": "F"},
-      {"slNo": "7", "subject": "Digital Technologies", "creditPoint": "32", "thPr": "Th.", "creditHours": 2, "gradePoint": 16, "grade": "O"}
+      {"slNo": "6", "subject": "Microprocessor AND ALP", "creditPoint": "32", "thPr": "Th.", "creditHours": 4, "gradePoint": 8, "grade": "A"},
+      {"slNo": "7", "subject": "Digital Technologies", "creditPoint": "12", "thPr": "Th.", "creditHours": 2, "gradePoint": 6, "grade": "B"}
     ]
   },
   {
@@ -47,8 +47,8 @@
       {"slNo": "3", "subject": "Environmental Studies/Education", "creditPoint": "14", "thPr": "Th.", "creditHours": 2, "gradePoint": 7, "grade": "B+"},
       {"slNo": "4", "subject": "Visual Programming With C Sharp", "creditPoint": "16", "thPr": "Th.", "creditHours": 2, "gradePoint": 8, "grade": "A"},
       {"slNo": "5", "subject": "Health & Wellness/Yoga Education", "creditPoint": "14", "thPr": "Th.", "creditHours": 2, "gradePoint": 7, "grade": "B+"},
-      {"slNo": "6", "subject": "Microprocessor AND ALP", "creditPoint": "12", "thPr": "Th.", "creditHours": 4, "gradePoint": 3, "grade": "F"},
-      {"slNo": "7", "subject": "Digital Technologies", "creditPoint": "28", "thPr": "Th.", "creditHours": 2, "gradePoint": 14, "grade": "A+"}
+      {"slNo": "6", "subject": "Microprocessor AND ALP", "creditPoint": "28", "thPr": "Th.", "creditHours": 4, "gradePoint": 7, "grade": "B+"},
+      {"slNo": "7", "subject": "Digital Technologies", "creditPoint": "12", "thPr": "Th.", "creditHours": 2, "gradePoint": 6, "grade": "B"}
     ]
   },
   {
@@ -60,8 +60,8 @@
       {"slNo": "3", "subject": "Environmental Studies/Education", "creditPoint": "14", "thPr": "Th.", "creditHours": 2, "gradePoint": 7, "grade": "B+"},
       {"slNo": "4", "subject": "Visual Programming With C Sharp", "creditPoint": "16", "thPr": "Th.", "creditHours": 2, "gradePoint": 8, "grade": "A"},
       {"slNo": "5", "subject": "Health & Wellness/Yoga Education", "creditPoint": "16", "thPr": "Th.", "creditHours": 2, "gradePoint": 8, "grade": "A"},
-      {"slNo": "6", "subject": "Microprocessor AND ALP", "creditPoint": "14", "thPr": "Th.", "creditHours": 4, "gradePoint": 3.5, "grade": "F"},
-      {"slNo": "7", "subject": "Digital Technologies", "creditPoint": "32", "thPr": "Th.", "creditHours": 2, "gradePoint": 16, "grade": "O"}
+      {"slNo": "6", "subject": "Microprocessor AND ALP", "creditPoint": "32", "thPr": "Th.", "creditHours": 4, "gradePoint": 8, "grade": "A"},
+      {"slNo": "7", "subject": "Digital Technologies", "creditPoint": "14", "thPr": "Th.", "creditHours": 2, "gradePoint": 7, "grade": "B+"}
     ]
   },
   {
@@ -73,8 +73,8 @@
       {"slNo": "3", "subject": "Environmental Studies/Education", "creditPoint": "12", "thPr": "Th.", "creditHours": 2, "gradePoint": 6, "grade": "B"},
       {"slNo": "4", "subject": "Visual Programming With C Sharp", "creditPoint": "12", "thPr": "Th.", "creditHours": 2, "gradePoint": 6, "grade": "B"},
       {"slNo": "5", "subject": "Health & Wellness/Yoga Education", "creditPoint": "12", "thPr": "Th.", "creditHours": 2, "gradePoint": 6, "grade": "B"},
-      {"slNo": "6", "subject": "Microprocessor AND ALP", "creditPoint": "10", "thPr": "Th.", "creditHours": 4, "gradePoint": 2.5, "grade": "F"},
-      {"slNo": "7", "subject": "Digital Technologies", "creditPoint": "24", "thPr": "Th.", "creditHours": 2, "gradePoint": 12, "grade": "A"}
+      {"slNo": "6", "subject": "Microprocessor AND ALP", "creditPoint": "24", "thPr": "Th.", "creditHours": 4, "gradePoint": 6, "grade": "B"},
+      {"slNo": "7", "subject": "Digital Technologies", "creditPoint": "10", "thPr": "Th.", "creditHours": 2, "gradePoint": 5, "grade": "C"}
     ]
   },
   {
@@ -86,8 +86,8 @@
       {"slNo": "3", "subject": "Environmental Studies/Education", "creditPoint": "16", "thPr": "Th.", "creditHours": 2, "gradePoint": 8, "grade": "A"},
       {"slNo": "4", "subject": "Visual Programming With C Sharp", "creditPoint": "16", "thPr": "Th.", "creditHours": 2, "gradePoint": 8, "grade": "A"},
       {"slNo": "5", "subject": "Health & Wellness/Yoga Education", "creditPoint": "16", "thPr": "Th.", "creditHours": 2, "gradePoint": 8, "grade": "A"},
-      {"slNo": "6", "subject": "Microprocessor AND ALP", "creditPoint": "14", "thPr": "Th.", "creditHours": 4, "gradePoint": 3.5, "grade": "F"},
-      {"slNo": "7", "subject": "Digital Technologies", "creditPoint": "32", "thPr": "Th.", "creditHours": 2, "gradePoint": 16, "grade": "O"}
+      {"slNo": "6", "subject": "Microprocessor AND ALP", "creditPoint": "32", "thPr": "Th.", "creditHours": 4, "gradePoint": 8, "grade": "A"},
+      {"slNo": "7", "subject": "Digital Technologies", "creditPoint": "14", "thPr": "Th.", "creditHours": 2, "gradePoint": 7, "grade": "B+"}
     ]
   },
   {
@@ -99,8 +99,8 @@
       {"slNo": "3", "subject": "Environmental Studies/Education", "creditPoint": "12", "thPr": "Th.", "creditHours": 2, "gradePoint": 6, "grade": "B"},
       {"slNo": "4", "subject": "Visual Programming With C Sharp", "creditPoint": "14", "thPr": "Th.", "creditHours": 2, "gradePoint": 7, "grade": "B+"},
       {"slNo": "5", "subject": "Health & Wellness/Yoga Education", "creditPoint": "14", "thPr": "Th.", "creditHours": 2, "gradePoint": 7, "grade": "B+"},
-      {"slNo": "6", "subject": "Microprocessor AND ALP", "creditPoint": "12", "thPr": "Th.", "creditHours": 4, "gradePoint": 3, "grade": "F"},
-      {"slNo": "7", "subject": "Digital Technologies", "creditPoint": "32", "thPr": "Th.", "creditHours": 2, "gradePoint": 16, "grade": "O"}
+      {"slNo": "6", "subject": "Microprocessor AND ALP", "creditPoint": "32", "thPr": "Th.", "creditHours": 4, "gradePoint": 8, "grade": "A"},
+      {"slNo": "7", "subject": "Digital Technologies", "creditPoint": "12", "thPr": "Th.", "creditHours": 2, "gradePoint": 6, "grade": "B"}
     ]
   },
   {
@@ -112,8 +112,8 @@
       {"slNo": "3", "subject": "Environmental Studies/Education", "creditPoint": "12", "thPr": "Th.", "creditHours": 2, "gradePoint": 6, "grade": "B"},
       {"slNo": "4", "subject": "Visual Programming With C Sharp", "creditPoint": "14", "thPr": "Th.", "creditHours": 2, "gradePoint": 7, "grade": "B+"},
       {"slNo": "5", "subject": "Health & Wellness/Yoga Education", "creditPoint": "16", "thPr": "Th.", "creditHours": 2, "gradePoint": 8, "grade": "A"},
-      {"slNo": "6", "subject": "Microprocessor AND ALP", "creditPoint": "12", "thPr": "Th.", "creditHours": 4, "gradePoint": 3, "grade": "F"},
-      {"slNo": "7", "subject": "Digital Technologies", "creditPoint": "28", "thPr": "Th.", "creditHours": 2, "gradePoint": 14, "grade": "A+"}
+      {"slNo": "6", "subject": "Microprocessor AND ALP", "creditPoint": "28", "thPr": "Th.", "creditHours": 4, "gradePoint": 7, "grade": "B+"},
+      {"slNo": "7", "subject": "Digital Technologies", "creditPoint": "12", "thPr": "Th.", "creditHours": 2, "gradePoint": 6, "grade": "B"}
     ]
   },
   {
@@ -125,8 +125,8 @@
       {"slNo": "3", "subject": "Environmental Studies/Education", "creditPoint": "16", "thPr": "Th.", "creditHours": 2, "gradePoint": 8, "grade": "A"},
       {"slNo": "4", "subject": "Visual Programming With C Sharp", "creditPoint": "16", "thPr": "Th.", "creditHours": 2, "gradePoint": 8, "grade": "A"},
       {"slNo": "5", "subject": "Health & Wellness/Yoga Education", "creditPoint": "16", "thPr": "Th.", "creditHours": 2, "gradePoint": 8, "grade": "A"},
-      {"slNo": "6", "subject": "Microprocessor AND ALP", "creditPoint": "14", "thPr": "Th.", "creditHours": 4, "gradePoint": 3.5, "grade": "F"},
-      {"slNo": "7", "subject": "Digital Technologies", "creditPoint": "32", "thPr": "Th.", "creditHours": 2, "gradePoint": 16, "grade": "O"}
+      {"slNo": "6", "subject": "Microprocessor AND ALP", "creditPoint": "32", "thPr": "Th.", "creditHours": 4, "gradePoint": 8, "grade": "A"},
+      {"slNo": "7", "subject": "Digital Technologies", "creditPoint": "14", "thPr": "Th.", "creditHours": 2, "gradePoint": 7, "grade": "B+"}
     ]
   },
   {
@@ -138,8 +138,8 @@
       {"slNo": "3", "subject": "Environmental Studies/Education", "creditPoint": "12", "thPr": "Th.", "creditHours": 2, "gradePoint": 6, "grade": "B"},
       {"slNo": "4", "subject": "Visual Programming With C Sharp", "creditPoint": "12", "thPr": "Th.", "creditHours": 2, "gradePoint": 6, "grade": "B"},
       {"slNo": "5", "subject": "Health & Wellness/Yoga Education", "creditPoint": "14", "thPr": "Th.", "creditHours": 2, "gradePoint": 7, "grade": "B+"},
-      {"slNo": "6", "subject": "Microprocessor AND ALP", "creditPoint": "10", "thPr": "Th.", "creditHours": 4, "gradePoint": 2.5, "grade": "F"},
-      {"slNo": "7", "subject": "Digital Technologies", "creditPoint": "24", "thPr": "Th.", "creditHours": 2, "gradePoint": 12, "grade": "A"}
+      {"slNo": "6", "subject": "Microprocessor AND ALP", "creditPoint": "24", "thPr": "Th.", "creditHours": 4, "gradePoint": 6, "grade": "B"},
+      {"slNo": "7", "subject": "Digital Technologies", "creditPoint": "10", "thPr": "Th.", "creditHours": 2, "gradePoint": 5, "grade": "C"}
     ]
   },
   {
@@ -151,8 +151,8 @@
       {"slNo": "3", "subject": "Environmental Studies/Education", "creditPoint": "10", "thPr": "Th.", "creditHours": 2, "gradePoint": 5, "grade": "C"},
       {"slNo": "4", "subject": "Visual Programming With C Sharp", "creditPoint": "12", "thPr": "Th.", "creditHours": 2, "gradePoint": 6, "grade": "B"},
       {"slNo": "5", "subject": "Health & Wellness/Yoga Education", "creditPoint": "12", "thPr": "Th.", "creditHours": 2, "gradePoint": 6, "grade": "B"},
-      {"slNo": "6", "subject": "Microprocessor AND ALP", "creditPoint": "8", "thPr": "Th.", "creditHours": 4, "gradePoint": 2, "grade": "F"},
-      {"slNo": "7", "subject": "Digital Technologies", "creditPoint": "24", "thPr": "Th.", "creditHours": 2, "gradePoint": 12, "grade": "A"}
+      {"slNo": "6", "subject": "Microprocessor AND ALP", "creditPoint": "24", "thPr": "Th.", "creditHours": 4, "gradePoint": 6, "grade": "B"},
+      {"slNo": "7", "subject": "Digital Technologies", "creditPoint": "8", "thPr": "Th.", "creditHours": 2, "gradePoint": 4, "grade": "P"}
     ]
   },
   {
@@ -164,8 +164,8 @@
       {"slNo": "3", "subject": "Environmental Studies/Education", "creditPoint": "12", "thPr": "Th.", "creditHours": 2, "gradePoint": 6, "grade": "B"},
       {"slNo": "4", "subject": "Visual Programming With C Sharp", "creditPoint": "10", "thPr": "Th.", "creditHours": 2, "gradePoint": 5, "grade": "C"},
       {"slNo": "5", "subject": "Health & Wellness/Yoga Education", "creditPoint": "12", "thPr": "Th.", "creditHours": 2, "gradePoint": 6, "grade": "B"},
-      {"slNo": "6", "subject": "Microprocessor AND ALP", "creditPoint": "10", "thPr": "Th.", "creditHours": 4, "gradePoint": 2.5, "grade": "F"},
-      {"slNo": "7", "subject": "Digital Technologies", "creditPoint": "20", "thPr": "Th.", "creditHours": 2, "gradePoint": 10, "grade": "O"}
+      {"slNo": "6", "subject": "Microprocessor AND ALP", "creditPoint": "24", "thPr": "Th.", "creditHours": 4, "gradePoint": 6, "grade": "B"},
+      {"slNo": "7", "subject": "Digital Technologies", "creditPoint": "10", "thPr": "Th.", "creditHours": 2, "gradePoint": 5, "grade": "C"}
     ]
   },
   {
@@ -177,8 +177,8 @@
       {"slNo": "3", "subject": "Environmental Studies/Education", "creditPoint": "12", "thPr": "Th.", "creditHours": 2, "gradePoint": 6, "grade": "B"},
       {"slNo": "4", "subject": "Visual Programming With C Sharp", "creditPoint": "12", "thPr": "Th.", "creditHours": 2, "gradePoint": 6, "grade": "B"},
       {"slNo": "5", "subject": "Health & Wellness/Yoga Education", "creditPoint": "10", "thPr": "Th.", "creditHours": 2, "gradePoint": 5, "grade": "C"},
-      {"slNo": "6", "subject": "Microprocessor AND ALP", "creditPoint": "10", "thPr": "Th.", "creditHours": 4, "gradePoint": 2.5, "grade": "F"},
-      {"slNo": "7", "subject": "Digital Technologies", "creditPoint": "24", "thPr": "Th.", "creditHours": 2, "gradePoint": 12, "grade": "A"}
+      {"slNo": "6", "subject": "Microprocessor AND ALP", "creditPoint": "24", "thPr": "Th.", "creditHours": 4, "gradePoint": 6, "grade": "B"},
+      {"slNo": "7", "subject": "Digital Technologies", "creditPoint": "10", "thPr": "Th.", "creditHours": 2, "gradePoint": 5, "grade": "C"}
     ]
   },
   {
@@ -190,8 +190,8 @@
       {"slNo": "3", "subject": "Environmental Studies/Education", "creditPoint": "14", "thPr": "Th.", "creditHours": 2, "gradePoint": 7, "grade": "B+"},
       {"slNo": "4", "subject": "Visual Programming With C Sharp", "creditPoint": "10", "thPr": "Th.", "creditHours": 2, "gradePoint": 5, "grade": "C"},
       {"slNo": "5", "subject": "Health & Wellness/Yoga Education", "creditPoint": "14", "thPr": "Th.", "creditHours": 2, "gradePoint": 7, "grade": "B+"},
-      {"slNo": "6", "subject": "Microprocessor AND ALP", "creditPoint": "12", "thPr": "Th.", "creditHours": 4, "gradePoint": 3, "grade": "F"},
-      {"slNo": "7", "subject": "Digital Technologies", "creditPoint": "28", "thPr": "Th.", "creditHours": 2, "gradePoint": 14, "grade": "A+"}
+      {"slNo": "6", "subject": "Microprocessor AND ALP", "creditPoint": "28", "thPr": "Th.", "creditHours": 4, "gradePoint": 7, "grade": "B+"},
+      {"slNo": "7", "subject": "Digital Technologies", "creditPoint": "12", "thPr": "Th.", "creditHours": 2, "gradePoint": 6, "grade": "B"}
     ]
   },
   {
@@ -203,8 +203,8 @@
       {"slNo": "3", "subject": "Environmental Studies/Education", "creditPoint": "14", "thPr": "Th.", "creditHours": 2, "gradePoint": 7, "grade": "B+"},
       {"slNo": "4", "subject": "Visual Programming With C Sharp", "creditPoint": "12", "thPr": "Th.", "creditHours": 2, "gradePoint": 6, "grade": "B"},
       {"slNo": "5", "subject": "Health & Wellness/Yoga Education", "creditPoint": "12", "thPr": "Th.", "creditHours": 2, "gradePoint": 6, "grade": "B"},
-      {"slNo": "6", "subject": "Microprocessor AND ALP", "creditPoint": "12", "thPr": "Th.", "creditHours": 4, "gradePoint": 3, "grade": "F"},
-      {"slNo": "7", "subject": "Digital Technologies", "creditPoint": "24", "thPr": "Th.", "creditHours": 2, "gradePoint": 12, "grade": "A"}
+      {"slNo": "6", "subject": "Microprocessor AND ALP", "creditPoint": "28", "thPr": "Th.", "creditHours": 4, "gradePoint": 7, "grade": "B+"},
+      {"slNo": "7", "subject": "Digital Technologies", "creditPoint": "12", "thPr": "Th.", "creditHours": 2, "gradePoint": 6, "grade": "B"}
     ]
   }
 ]

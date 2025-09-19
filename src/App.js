@@ -3,6 +3,8 @@ import { FaLinkedin, FaSearch } from "react-icons/fa";
 import Sem1Results from "./Sem1Results.json";
 import Sem2Results from "./Sem2Results.json";
 import Sem3Results from "./Sem3Results.json";
+import Sem4Results from "./Sem4Results.json";
+
 import Modal from './Modal';
 import CGPAExplanation from './CGPAExplanation';
 
@@ -109,6 +111,36 @@ function App() {
         }
 
         combined[student.hallTicket].semesters.sem3 = {
+          results: student.results,
+          average,
+          totalCreditPoints: totalWeightedGradePoints.toFixed(2),
+          totalCreditHours,
+        };
+      });
+
+          // Process Sem3
+      Sem4Results.forEach((student) => {
+        const totalWeightedGradePoints = student.results.reduce((acc, result) => {
+          const gp = parseFloat(result.gradePoint) || 0;
+          const ch = parseInt(result.creditHours, 10) || 0;
+          return acc + gp * ch;
+        }, 0);
+
+        const totalCreditHours = student.results.reduce((acc, result) => {
+          return acc + (parseInt(result.creditHours, 10) || 0);
+        }, 0);
+
+        const average = totalCreditHours ? (totalWeightedGradePoints / totalCreditHours).toFixed(2) : "0.00";
+
+        if (!combined[student.hallTicket]) {
+          combined[student.hallTicket] = {
+            name: student.name,
+            hallTicket: student.hallTicket,
+            semesters: {},
+          };
+        }
+
+        combined[student.hallTicket].semesters.sem4 = {
           results: student.results,
           average,
           totalCreditPoints: totalWeightedGradePoints.toFixed(2),
@@ -311,7 +343,7 @@ function App() {
                   <div className="mt-2">
                     {/* Semester Tabs */}
                     <div className="flex gap-2 mb-4">
-                      {["sem1", "sem2", "sem3"].map(
+                      {["sem1", "sem2", "sem3", "sem4"].map(
                         (semKey) =>
                           combinedResults[student.hallTicket]?.semesters?.[semKey] && (
                             <button

@@ -1,15 +1,21 @@
 {
   "files": {
-    "main.css": "/taskapp/static/css/main.9104ab38.css",
-    "main.js": "/taskapp/static/js/main.470600dc.js",
+    "main.css": "/taskapp/static/css/main.a230769b.css",
+    "main.js": "/taskapp/static/js/main.a0fb66e9.js",
+    "static/js/239.c247d883.chunk.js": "/taskapp/static/js/239.c247d883.chunk.js",
+    "static/js/977.0c0e8f4f.chunk.js": "/taskapp/static/js/977.0c0e8f4f.chunk.js",
+    "static/js/732.77174bd1.chunk.js": "/taskapp/static/js/732.77174bd1.chunk.js",
     "static/js/453.db2e7850.chunk.js": "/taskapp/static/js/453.db2e7850.chunk.js",
     "index.html": "/taskapp/index.html",
-    "main.9104ab38.css.map": "/taskapp/static/css/main.9104ab38.css.map",
-    "main.470600dc.js.map": "/taskapp/static/js/main.470600dc.js.map",
+    "main.a230769b.css.map": "/taskapp/static/css/main.a230769b.css.map",
+    "main.a0fb66e9.js.map": "/taskapp/static/js/main.a0fb66e9.js.map",
+    "239.c247d883.chunk.js.map": "/taskapp/static/js/239.c247d883.chunk.js.map",
+    "977.0c0e8f4f.chunk.js.map": "/taskapp/static/js/977.0c0e8f4f.chunk.js.map",
+    "732.77174bd1.chunk.js.map": "/taskapp/static/js/732.77174bd1.chunk.js.map",
     "453.db2e7850.chunk.js.map": "/taskapp/static/js/453.db2e7850.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9104ab38.css",
-    "static/js/main.470600dc.js"
+    "static/css/main.a230769b.css",
+    "static/js/main.a0fb66e9.js"
   ]
 }

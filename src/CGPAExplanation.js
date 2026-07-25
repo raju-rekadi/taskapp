@@ -3,9 +3,7 @@ import React from 'react';
 
 const CGPAExplanation = () => {
   return (
-    <div className="cgpa-explanation p-4 max-w-md mx-auto">
-      <h3 className="text-xl font-bold mb-4 text-blue-600">How CGPA is Calculated</h3>
-      
+    <div className="cgpa-explanation px-4 pb-6 pt-4">
       <div className="space-y-4">
         {/* SGPA Calculation */}
         <div className="calculation-step">

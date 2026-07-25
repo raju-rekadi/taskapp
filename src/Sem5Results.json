@@ -1,0 +1,1022 @@
+[
+  {
+    "hallTicket": "23CS0301",
+    "name": "ARADADI GAYATRI",
+    "results": [
+      {
+        "slNo": "1",
+        "subject": "OPERATING SYSYTEMS (MJD08)",
+        "thPr": "Th.",
+        "creditHours": "4",
+        "gradePoint": "9.00",
+        "creditPoint": "36.00",
+        "grade": "A+"
+      },
+      {
+        "slNo": "2",
+        "subject": "MATHEMATICAL FOUNDATION OF COMPUTER SCIENCE",
+        "thPr": "Th.",
+        "creditHours": "4",
+        "gradePoint": "8.00",
+        "creditPoint": "32.00",
+        "grade": "A"
+      },
+      {
+        "slNo": "3",
+        "subject": "COMPUTER NETWORKS (MJD10)",
+        "thPr": "Th.",
+        "creditHours": "4",
+        "gradePoint": "9.00",
+        "creditPoint": "36.00",
+        "grade": "A+"
+      },
+      {
+        "slNo": "4",
+        "subject": "THEORY OF COMPUTATION (MID05)",
+        "thPr": "Th.",
+        "creditHours": "4",
+        "gradePoint": "6.00",
+        "creditPoint": "24.00",
+        "grade": "B"
+      },
+      {
+        "slNo": "5",
+        "subject": "SUMMER INTERNSHIP (MJD11)",
+        "thPr": "Th.",
+        "creditHours": "2",
+        "gradePoint": "10.00",
+        "creditPoint": "20.00",
+        "grade": "O"
+      }
+    ]
+  },
+  {
+    "hallTicket": "23CS0302",
+    "name": "DANGETI KANAKA MAHA LAKSHMI",
+    "results": [
+      {
+        "slNo": "1",
+        "subject": "OPERATING SYSTEMS (MJD08)",
+        "thPr": "Th.",
+        "creditHours": "4",
+        "gradePoint": "7.00",
+        "creditPoint": "28.00",
+        "grade": "B+"
+      },
+      {
+        "slNo": "2",
+        "subject": "MATHEMATICAL FOUNDATION OF COMPUTER SCIENCE",
+        "thPr": "Th.",
+        "creditHours": "4",
+        "gradePoint": "7.00",
+        "creditPoint": "28.00",
+        "grade": "B+"
+      },
+      {
+        "slNo": "3",
+        "subject": "COMPUTER NETWORKS (MJD10)",
+        "thPr": "Th.",
+        "creditHours": "4",
+        "gradePoint": "8.00",
+        "creditPoint": "32.00",
+        "grade": "A"
+      },
+      {
+        "slNo": "4",
+        "subject": "THEORY OF COMPUTATION (MID05)",
+        "thPr": "Th.",
+        "creditHours": "4",
+        "gradePoint": "7.00",
+        "creditPoint": "28.00",
+        "grade": "B+"
+      },
+      {
+        "slNo": "5",
+        "subject": "SUMMER INTERNSHIP (MJD11)",
+        "thPr": "Th.",
+        "creditHours": "2",
+        "gradePoint": "10.00",
+        "creditPoint": "20.00",
+        "grade": "O"
+      }
+    ]
+  },
+  {
+    "hallTicket": "23CS0303",
+    "name": "KAMADI PUSHPA",
+    "results": [
+      {
+        "slNo": "1",
+        "subject": "OPERATING SYSTEMS (MJD08)",
+        "thPr": "Th.",
+        "creditHours": "4",
+        "gradePoint": "6.00",
+        "creditPoint": "24.00",
+        "grade": "B"
+      },
+      {
+        "slNo": "2",
+        "subject": "MATHEMATICAL FOUNDATION OF COMPUTER SCIENCE",
+        "thPr": "Th.",
+        "creditHours": "4",
+        "gradePoint": "7.00",
+        "creditPoint": "28.00",
+        "grade": "B+"
+      },
+      {
+        "slNo": "3",
+        "subject": "COMPUTER NETWORKS (MJD10)",
+        "thPr": "Th.",
+        "creditHours": "4",
+        "gradePoint": "8.00",
+        "creditPoint": "32.00",
+        "grade": "A"
+      },
+      {
+        "slNo": "4",
+        "subject": "THEORY OF COMPUTATION (MID05)",
+        "thPr": "Th.",
+        "creditHours": "4",
+        "gradePoint": "5.00",
+        "creditPoint": "20.00",
+        "grade": "C"
+      },
+      {
+        "slNo": "5",
+        "subject": "SUMMER INTERNSHIP (MJD11)",
+        "thPr": "Th.",
+        "creditHours": "2",
+        "gradePoint": "10.00",
+        "creditPoint": "20.00",
+        "grade": "O"
+      }
+    ]
+  },
+  {
+    "hallTicket": "23CS0304",
+    "name": "KANDULA NAGA DURGA DEVI",
+    "results": [
+      {
+        "slNo": "1",
+        "subject": "OPERATING SYSTEMS (MJD08)",
+        "thPr": "Th.",
+        "creditHours": "4",
+        "gradePoint": "7.00",
+        "creditPoint": "28.00",
+        "grade": "B+"
+      },
+      {
+        "slNo": "2",
+        "subject": "MATHEMATICAL FOUNDATION OF COMPUTER SCIENCE",
+        "thPr": "Th.",
+        "creditHours": "4",
+        "gradePoint": "7.00",
+        "creditPoint": "28.00",
+        "grade": "B+"
+      },
+      {
+        "slNo": "3",
+        "subject": "COMPUTER NETWORKS (MJD10)",
+        "thPr": "Th.",
+        "creditHours": "4",
+        "gradePoint": "8.00",
+        "creditPoint": "32.00",
+        "grade": "A"
+      },
+      {
+        "slNo": "4",
+        "subject": "THEORY OF COMPUTATION (MID05)",
+        "thPr": "Th.",
+        "creditHours": "4",
+        "gradePoint": "6.00",
+        "creditPoint": "24.00",
+        "grade": "B"
+      },
+      {
+        "slNo": "5",
+        "subject": "SUMMER INTERNSHIP (MJD11)",
+        "thPr": "Th.",
+        "creditHours": "2",
+        "gradePoint": "10.00",
+        "creditPoint": "20.00",
+        "grade": "O"
+      }
+    ]
+  },
+  {
+    "hallTicket": "23CS0305",
+    "name": "KODURI SATYA PREMA KUMARI",
+    "results": [
+      {
+        "slNo": "1",
+        "subject": "OPERATING SYSTEMS (MJD08)",
+        "thPr": "Th.",
+        "creditHours": "4",
+        "gradePoint": "8.00",
+        "creditPoint": "32.00",
+        "grade": "A"
+      },
+      {
+        "slNo": "2",
+        "subject": "MATHEMATICAL FOUNDATION OF COMPUTER SCIENCE",
+        "thPr": "Th.",
+        "creditHours": "4",
+        "gradePoint": "7.00",
+        "creditPoint": "28.00",
+        "grade": "B+"
+      },
+      {
+        "slNo": "3",
+        "subject": "COMPUTER NETWORKS (MJD10)",
+        "thPr": "Th.",
+        "creditHours": "4",
+        "gradePoint": "9.00",
+        "creditPoint": "36.00",
+        "grade": "A+"
+      },
+      {
+        "slNo": "4",
+        "subject": "THEORY OF COMPUTATION (MID05)",
+        "thPr": "Th.",
+        "creditHours": "4",
+        "gradePoint": "6.00",
+        "creditPoint": "24.00",
+        "grade": "B"
+      },
+      {
+        "slNo": "5",
+        "subject": "SUMMER INTERNSHIP (MJD11)",
+        "thPr": "Th.",
+        "creditHours": "2",
+        "gradePoint": "10.00",
+        "creditPoint": "20.00",
+        "grade": "O"
+      }
+    ]
+  },
+  {
+    "hallTicket": "23CS0306",
+    "name": "KORLAPATI LAKSHMI DEVI",
+    "results": [
+      {
+        "slNo": "1",
+        "subject": "OPERATING SYSTEMS (MJD08)",
+        "thPr": "Th.",
+        "creditHours": "4",
+        "gradePoint": "5.00",
+        "creditPoint": "20.00",
+        "grade": "C"
+      },
+      {
+        "slNo": "2",
+        "subject": "MATHEMATICAL FOUNDATION OF COMPUTER SCIENCE",
+        "thPr": "Th.",
+        "creditHours": "4",
+        "gradePoint": "4.00",
+        "creditPoint": "16.00",
+        "grade": "P"
+      },
+      {
+        "slNo": "3",
+        "subject": "COMPUTER NETWORKS (MJD10)",
+        "thPr": "Th.",
+        "creditHours": "4",
+        "gradePoint": "4.00",
+        "creditPoint": "16.00",
+        "grade": "P"
+      },
+      {
+        "slNo": "4",
+        "subject": "THEORY OF COMPUTATION (MID05)",
+        "thPr": "Th.",
+        "creditHours": "4",
+        "gradePoint": "4.00",
+        "creditPoint": "16.00",
+        "grade": "P"
+      },
+      {
+        "slNo": "5",
+        "subject": "SUMMER INTERNSHIP (MJD11)",
+        "thPr": "Th.",
+        "creditHours": "2",
+        "gradePoint": "10.00",
+        "creditPoint": "20.00",
+        "grade": "O"
+      }
+    ]
+  },
+  {
+    "hallTicket": "23CS0307",
+    "name": "KOSETTI YAZNA MOUNIKA",
+    "results": [
+      {
+        "slNo": "1",
+        "subject": "OPERATING SYSTEMS (MJD08)",
+        "thPr": "Th.",
+        "creditHours": "4",
+        "gradePoint": "7.00",
+        "creditPoint": "28.00",
+        "grade": "B+"
+      },
+      {
+        "slNo": "2",
+        "subject": "MATHEMATICAL FOUNDATION OF COMPUTER SCIENCE",
+        "thPr": "Th.",
+        "creditHours": "4",
+        "gradePoint": "8.00",
+        "creditPoint": "32.00",
+        "grade": "A"
+      },
+      {
+        "slNo": "3",
+        "subject": "COMPUTER NETWORKS (MJD10)",
+        "thPr": "Th.",
+        "creditHours": "4",
+        "gradePoint": "9.00",
+        "creditPoint": "36.00",
+        "grade": "A+"
+      },
+      {
+        "slNo": "4",
+        "subject": "THEORY OF COMPUTATION (MID05)",
+        "thPr": "Th.",
+        "creditHours": "4",
+        "gradePoint": "7.00",
+        "creditPoint": "28.00",
+        "grade": "B+"
+      },
+      {
+        "slNo": "5",
+        "subject": "SUMMER INTERNSHIP (MJD11)",
+        "thPr": "Th.",
+        "creditHours": "2",
+        "gradePoint": "10.00",
+        "creditPoint": "20.00",
+        "grade": "O"
+      }
+    ]
+  },
+  {
+    "hallTicket": "23CS0308",
+    "name": "KOTTURI DIVYA SRI",
+    "results": [
+      {
+        "slNo": "1",
+        "subject": "OPERATING SYSTEMS (MJD08)",
+        "thPr": "Th.",
+        "creditHours": "4",
+        "gradePoint": "6.00",
+        "creditPoint": "24.00",
+        "grade": "B"
+      },
+      {
+        "slNo": "2",
+        "subject": "MATHEMATICAL FOUNDATION OF COMPUTER SCIENCE",
+        "thPr": "Th.",
+        "creditHours": "4",
+        "gradePoint": "7.00",
+        "creditPoint": "28.00",
+        "grade": "B+"
+      },
+      {
+        "slNo": "3",
+        "subject": "COMPUTER NETWORKS (MJD10)",
+        "thPr": "Th.",
+        "creditHours": "4",
+        "gradePoint": "7.00",
+        "creditPoint": "28.00",
+        "grade": "B+"
+      },
+      {
+        "slNo": "4",
+        "subject": "THEORY OF COMPUTATION (MID05)",
+        "thPr": "Th.",
+        "creditHours": "4",
+        "gradePoint": "6.00",
+        "creditPoint": "24.00",
+        "grade": "B"
+      },
+      {
+        "slNo": "5",
+        "subject": "SUMMER INTERNSHIP (MJD11)",
+        "thPr": "Th.",
+        "creditHours": "2",
+        "gradePoint": "10.00",
+        "creditPoint": "20.00",
+        "grade": "O"
+      }
+    ]
+  },
+  {
+    "hallTicket": "23CS0309",
+    "name": "KURACHA RAMA SESHA MANIDEEP",
+    "results": [
+      {
+        "slNo": "1",
+        "subject": "OPERATING SYSTEMS (MJD08)",
+        "thPr": "Th.",
+        "creditHours": "4",
+        "gradePoint": "0.00",
+        "creditPoint": "0.00",
+        "grade": "F Fail"
+      },
+      {
+        "slNo": "2",
+        "subject": "MATHEMATICAL FOUNDATION OF COMPUTER SCIENCE",
+        "thPr": "Th.",
+        "creditHours": "4",
+        "gradePoint": "5.00",
+        "creditPoint": "20.00",
+        "grade": "C"
+      },
+      {
+        "slNo": "3",
+        "subject": "COMPUTER NETWORKS (MJD10)",
+        "thPr": "Th.",
+        "creditHours": "4",
+        "gradePoint": "5.00",
+        "creditPoint": "20.00",
+        "grade": "C"
+      },
+      {
+        "slNo": "4",
+        "subject": "THEORY OF COMPUTATION (MID05)",
+        "thPr": "Th.",
+        "creditHours": "4",
+        "gradePoint": "4.00",
+        "creditPoint": "16.00",
+        "grade": "P"
+      },
+      {
+        "slNo": "5",
+        "subject": "SUMMER INTERNSHIP (MJD11)",
+        "thPr": "Th.",
+        "creditHours": "2",
+        "gradePoint": "10.00",
+        "creditPoint": "20.00",
+        "grade": "O"
+      }
+    ]
+  },
+  {
+    "hallTicket": "23CS0311",
+    "name": "MALLIPUDI SHARISHMA SRI VADHANA",
+    "results": [
+      {
+        "slNo": "1",
+        "subject": "OPERATING SYSYTEMS(MJD08)",
+        "thPr": "Th.",
+        "creditHours": "4",
+        "gradePoint": "8.00",
+        "creditPoint": "32.00",
+        "grade": "A"
+      },
+      {
+        "slNo": "2",
+        "subject": "MATHEMATICAL FOUNDATION OF COMPUTER SCIENCE",
+        "thPr": "Th.",
+        "creditHours": "4",
+        "gradePoint": "7.00",
+        "creditPoint": "28.00",
+        "grade": "B+"
+      },
+      {
+        "slNo": "3",
+        "subject": "COMPUTER NETWORKS (MJD10)",
+        "thPr": "Th.",
+        "creditHours": "4",
+        "gradePoint": "8.00",
+        "creditPoint": "32.00",
+        "grade": "A"
+      },
+      {
+        "slNo": "4",
+        "subject": "THEORY OF COMPUTATION (MID05)",
+        "thPr": "Th.",
+        "creditHours": "4",
+        "gradePoint": "6.00",
+        "creditPoint": "24.00",
+        "grade": "B"
+      },
+      {
+        "slNo": "5",
+        "subject": "SUMMER INTERNSHIP -MJD11",
+        "thPr": "Th.",
+        "creditHours": "2",
+        "gradePoint": "10.00",
+        "creditPoint": "20.00",
+        "grade": "O"
+      }
+    ]
+  },
+  {
+    "hallTicket": "23CS0312",
+    "name": "MATTAPARTHI DEEPTHI NAGA MALLESWARI",
+    "results": [
+      {
+        "slNo": "1",
+        "subject": "OPERATING SYSYTEMS(MJD08)",
+        "thPr": "Th.",
+        "creditHours": "4",
+        "gradePoint": "7.00",
+        "creditPoint": "28.00",
+        "grade": "B+"
+      },
+      {
+        "slNo": "2",
+        "subject": "MATHEMATICAL FOUNDATION OF COMPUTER SCIENCE",
+        "thPr": "Th.",
+        "creditHours": "4",
+        "gradePoint": "7.00",
+        "creditPoint": "28.00",
+        "grade": "B+"
+      },
+      {
+        "slNo": "3",
+        "subject": "COMPUTER NETWORKS (MJD10)",
+        "thPr": "Th.",
+        "creditHours": "4",
+        "gradePoint": "9.00",
+        "creditPoint": "36.00",
+        "grade": "A+"
+      },
+      {
+        "slNo": "4",
+        "subject": "THEORY OF COMPUTATION (MID05)",
+        "thPr": "Th.",
+        "creditHours": "4",
+        "gradePoint": "7.00",
+        "creditPoint": "28.00",
+        "grade": "B+"
+      },
+      {
+        "slNo": "5",
+        "subject": "SUMMER INTERNSHIP -MJD11",
+        "thPr": "Th.",
+        "creditHours": "2",
+        "gradePoint": "10.00",
+        "creditPoint": "20.00",
+        "grade": "O"
+      }
+    ]
+  },
+  {
+    "hallTicket": "23CS0313",
+    "name": "MATTAPARTHI SIVANNARAYANA",
+    "results": [
+      {
+        "slNo": "1",
+        "subject": "OPERATING SYSYTEMS(MJD08)",
+        "thPr": "Th.",
+        "creditHours": "4",
+        "gradePoint": "4.00",
+        "creditPoint": "16.00",
+        "grade": "P"
+      },
+      {
+        "slNo": "2",
+        "subject": "MATHEMATICAL FOUNDATION OF COMPUTER SCIENCE",
+        "thPr": "Th.",
+        "creditHours": "4",
+        "gradePoint": "6.00",
+        "creditPoint": "24.00",
+        "grade": "B"
+      },
+      {
+        "slNo": "3",
+        "subject": "COMPUTER NETWORKS (MJD10)",
+        "thPr": "Th.",
+        "creditHours": "4",
+        "gradePoint": "4.00",
+        "creditPoint": "16.00",
+        "grade": "P"
+      },
+      {
+        "slNo": "4",
+        "subject": "THEORY OF COMPUTATION (MID05)",
+        "thPr": "Th.",
+        "creditHours": "4",
+        "gradePoint": "4.00",
+        "creditPoint": "16.00",
+        "grade": "P"
+      },
+      {
+        "slNo": "5",
+        "subject": "SUMMER INTERNSHIP -MJD11",
+        "thPr": "Th.",
+        "creditHours": "2",
+        "gradePoint": "10.00",
+        "creditPoint": "20.00",
+        "grade": "O"
+      }
+    ]
+  },
+  {
+    "hallTicket": "23CS0314",
+    "name": "MEDA SHALEMI RAJ",
+    "results": [
+      {
+        "slNo": "1",
+        "subject": "OPERATING SYSYTEMS(MJD08)",
+        "thPr": "Th.",
+        "creditHours": "4",
+        "gradePoint": "0.00",
+        "creditPoint": "0.00",
+        "grade": "AB Fail"
+      },
+      {
+        "slNo": "2",
+        "subject": "MATHEMATICAL FOUNDATION OF COMPUTER SCIENCE",
+        "thPr": "Th.",
+        "creditHours": "4",
+        "gradePoint": "5.00",
+        "creditPoint": "20.00",
+        "grade": "C"
+      },
+      {
+        "slNo": "3",
+        "subject": "COMPUTER NETWORKS (MJD10)",
+        "thPr": "Th.",
+        "creditHours": "4",
+        "gradePoint": "4.00",
+        "creditPoint": "16.00",
+        "grade": "P"
+      },
+      {
+        "slNo": "4",
+        "subject": "THEORY OF COMPUTATION (MID05)",
+        "thPr": "Th.",
+        "creditHours": "4",
+        "gradePoint": "4.00",
+        "creditPoint": "16.00",
+        "grade": "P"
+      },
+      {
+        "slNo": "5",
+        "subject": "SUMMER INTERNSHIP -MJD11",
+        "thPr": "Th.",
+        "creditHours": "2",
+        "gradePoint": "10.00",
+        "creditPoint": "20.00",
+        "grade": "O"
+      }
+    ]
+  },
+  {
+    "hallTicket": "23CS0315",
+    "name": "MEDA VENKATA SATISH",
+    "results": [
+      {
+        "slNo": "1",
+        "subject": "OPERATING SYSYTEMS(MJD08)",
+        "thPr": "Th.",
+        "creditHours": "4",
+        "gradePoint": "7.00",
+        "creditPoint": "28.00",
+        "grade": "B+"
+      },
+      {
+        "slNo": "2",
+        "subject": "MATHEMATICAL FOUNDATION OF COMPUTER SCIENCE",
+        "thPr": "Th.",
+        "creditHours": "4",
+        "gradePoint": "6.00",
+        "creditPoint": "24.00",
+        "grade": "B"
+      },
+      {
+        "slNo": "3",
+        "subject": "COMPUTER NETWORKS (MJD10)",
+        "thPr": "Th.",
+        "creditHours": "4",
+        "gradePoint": "5.00",
+        "creditPoint": "20.00",
+        "grade": "C"
+      },
+      {
+        "slNo": "4",
+        "subject": "THEORY OF COMPUTATION (MID05)",
+        "thPr": "Th.",
+        "creditHours": "4",
+        "gradePoint": "6.00",
+        "creditPoint": "24.00",
+        "grade": "B"
+      },
+      {
+        "slNo": "5",
+        "subject": "SUMMER INTERNSHIP -MJD11",
+        "thPr": "Th.",
+        "creditHours": "2",
+        "gradePoint": "10.00",
+        "creditPoint": "20.00",
+        "grade": "O"
+      }
+    ]
+  },
+  {
+    "hallTicket": "23CS0316",
+    "name": "MORTHA KRISHNAVENI",
+    "results": [
+      {
+        "slNo": "1",
+        "subject": "OPERATING SYSYTEMS(MJD08)",
+        "thPr": "Th.",
+        "creditHours": "4",
+        "gradePoint": "4.00",
+        "creditPoint": "16.00",
+        "grade": "P"
+      },
+      {
+        "slNo": "2",
+        "subject": "MATHEMATICAL FOUNDATION OF COMPUTER SCIENCE",
+        "thPr": "Th.",
+        "creditHours": "4",
+        "gradePoint": "5.00",
+        "creditPoint": "20.00",
+        "grade": "C"
+      },
+      {
+        "slNo": "3",
+        "subject": "COMPUTER NETWORKS (MJD10)",
+        "thPr": "Th.",
+        "creditHours": "4",
+        "gradePoint": "4.00",
+        "creditPoint": "16.00",
+        "grade": "P"
+      },
+      {
+        "slNo": "4",
+        "subject": "THEORY OF COMPUTATION (MID05)",
+        "thPr": "Th.",
+        "creditHours": "4",
+        "gradePoint": "5.00",
+        "creditPoint": "20.00",
+        "grade": "C"
+      },
+      {
+        "slNo": "5",
+        "subject": "SUMMER INTERNSHIP -MJD11",
+        "thPr": "Th.",
+        "creditHours": "2",
+        "gradePoint": "10.00",
+        "creditPoint": "20.00",
+        "grade": "O"
+      }
+    ]
+  },
+  {
+    "hallTicket": "23CS0317",
+    "name": "PANTHAM MAHIMANVITHA",
+    "results": [
+      {
+        "slNo": "1",
+        "subject": "OPERATING SYSYTEMS(MJD08)",
+        "thPr": "Th.",
+        "creditHours": "4",
+        "gradePoint": "6.00",
+        "creditPoint": "24.00",
+        "grade": "B"
+      },
+      {
+        "slNo": "2",
+        "subject": "MATHEMATICAL FOUNDATION OF COMPUTER SCIENCE",
+        "thPr": "Th.",
+        "creditHours": "4",
+        "gradePoint": "6.00",
+        "creditPoint": "24.00",
+        "grade": "B"
+      },
+      {
+        "slNo": "3",
+        "subject": "COMPUTER NETWORKS (MJD10)",
+        "thPr": "Th.",
+        "creditHours": "4",
+        "gradePoint": "5.00",
+        "creditPoint": "20.00",
+        "grade": "C"
+      },
+      {
+        "slNo": "4",
+        "subject": "THEORY OF COMPUTATION (MID05)",
+        "thPr": "Th.",
+        "creditHours": "4",
+        "gradePoint": "6.00",
+        "creditPoint": "24.00",
+        "grade": "B"
+      },
+      {
+        "slNo": "5",
+        "subject": "SUMMER INTERNSHIP -MJD11",
+        "thPr": "Th.",
+        "creditHours": "2",
+        "gradePoint": "10.00",
+        "creditPoint": "20.00",
+        "grade": "O"
+      }
+    ]
+  },
+  {
+    "hallTicket": "23CS0318",
+    "name": "PANTHAM VARA PRASAD",
+    "results": [
+      {
+        "slNo": "1",
+        "subject": "OPERATING SYSYTEMS(MJD08)",
+        "thPr": "Th.",
+        "creditHours": "4",
+        "gradePoint": "5.00",
+        "creditPoint": "20.00",
+        "grade": "C"
+      },
+      {
+        "slNo": "2",
+        "subject": "MATHEMATICAL FOUNDATION OF COMPUTER SCIENCE",
+        "thPr": "Th.",
+        "creditHours": "4",
+        "gradePoint": "5.00",
+        "creditPoint": "20.00",
+        "grade": "C"
+      },
+      {
+        "slNo": "3",
+        "subject": "COMPUTER NETWORKS (MJD10)",
+        "thPr": "Th.",
+        "creditHours": "4",
+        "gradePoint": "4.00",
+        "creditPoint": "16.00",
+        "grade": "P"
+      },
+      {
+        "slNo": "4",
+        "subject": "THEORY OF COMPUTATION (MID05)",
+        "thPr": "Th.",
+        "creditHours": "4",
+        "gradePoint": "4.00",
+        "creditPoint": "16.00",
+        "grade": "P"
+      },
+      {
+        "slNo": "5",
+        "subject": "SUMMER INTERNSHIP -MJD11",
+        "thPr": "Th.",
+        "creditHours": "2",
+        "gradePoint": "10.00",
+        "creditPoint": "20.00",
+        "grade": "O"
+      }
+    ]
+  },
+  {
+    "hallTicket": "23CS0319",
+    "name": "POLISETTY SADVIKA",
+    "results": [
+      {
+        "slNo": "1",
+        "subject": "OPERATING SYSYTEMS(MJD08)",
+        "thPr": "Th.",
+        "creditHours": "4",
+        "gradePoint": "5.00",
+        "creditPoint": "20.00",
+        "grade": "C"
+      },
+      {
+        "slNo": "2",
+        "subject": "MATHEMATICAL FOUNDATION OF COMPUTER SCIENCE",
+        "thPr": "Th.",
+        "creditHours": "4",
+        "gradePoint": "5.00",
+        "creditPoint": "20.00",
+        "grade": "C"
+      },
+      {
+        "slNo": "3",
+        "subject": "COMPUTER NETWORKS (MJD10)",
+        "thPr": "Th.",
+        "creditHours": "4",
+        "gradePoint": "5.00",
+        "creditPoint": "20.00",
+        "grade": "C"
+      },
+      {
+        "slNo": "4",
+        "subject": "THEORY OF COMPUTATION (MID05)",
+        "thPr": "Th.",
+        "creditHours": "4",
+        "gradePoint": "5.00",
+        "creditPoint": "20.00",
+        "grade": "C"
+      },
+      {
+        "slNo": "5",
+        "subject": "SUMMER INTERNSHIP -MJD11",
+        "thPr": "Th.",
+        "creditHours": "2",
+        "gradePoint": "10.00",
+        "creditPoint": "20.00",
+        "grade": "O"
+      }
+    ]
+  },
+  {
+    "hallTicket": "23CS0322",
+    "name": "VANKAYALA MANASA LAKSHMI MYTHRI",
+    "results": [
+      {
+        "slNo": "1",
+        "subject": "OPERATING SYSYTEMS(MJD08)",
+        "thPr": "Th.",
+        "creditHours": "4",
+        "gradePoint": "5.00",
+        "creditPoint": "20.00",
+        "grade": "C"
+      },
+      {
+        "slNo": "2",
+        "subject": "MATHEMATICAL FOUNDATION OF COMPUTER SCIENCE",
+        "thPr": "Th.",
+        "creditHours": "4",
+        "gradePoint": "5.00",
+        "creditPoint": "20.00",
+        "grade": "C"
+      },
+      {
+        "slNo": "3",
+        "subject": "COMPUTER NETWORKS (MJD10)",
+        "thPr": "Th.",
+        "creditHours": "4",
+        "gradePoint": "5.00",
+        "creditPoint": "20.00",
+        "grade": "C"
+      },
+      {
+        "slNo": "4",
+        "subject": "THEORY OF COMPUTATION (MID05)",
+        "thPr": "Th.",
+        "creditHours": "4",
+        "gradePoint": "5.00",
+        "creditPoint": "20.00",
+        "grade": "C"
+      },
+      {
+        "slNo": "5",
+        "subject": "SUMMER INTERNSHIP -MJD11",
+        "thPr": "Th.",
+        "creditHours": "2",
+        "gradePoint": "10.00",
+        "creditPoint": "20.00",
+        "grade": "O"
+      }
+    ]
+  },
+  {
+    "hallTicket": "23CS0323",
+    "name": "VOGGU SAI VENKATA KANAKA DURGA",
+    "results": [
+      {
+        "slNo": "1",
+        "subject": "OPERATING SYSYTEMS(MJD08)",
+        "thPr": "Th.",
+        "creditHours": "4",
+        "gradePoint": "5.00",
+        "creditPoint": "20.00",
+        "grade": "C"
+      },
+      {
+        "slNo": "2",
+        "subject": "MATHEMATICAL FOUNDATION OF COMPUTER SCIENCE",
+        "thPr": "Th.",
+        "creditHours": "4",
+        "gradePoint": "6.00",
+        "creditPoint": "24.00",
+        "grade": "B"
+      },
+      {
+        "slNo": "3",
+        "subject": "COMPUTER NETWORKS (MJD10)",
+        "thPr": "Th.",
+        "creditHours": "4",
+        "gradePoint": "5.00",
+        "creditPoint": "20.00",
+        "grade": "C"
+      },
+      {
+        "slNo": "4",
+        "subject": "THEORY OF COMPUTATION (MID05)",
+        "thPr": "Th.",
+        "creditHours": "4",
+        "gradePoint": "5.00",
+        "creditPoint": "20.00",
+        "grade": "C"
+      },
+      {
+        "slNo": "5",
+        "subject": "SUMMER INTERNSHIP -MJD11",
+        "thPr": "Th.",
+        "creditHours": "2",
+        "gradePoint": "10.00",
+        "creditPoint": "20.00",
+        "grade": "O"
+      }
+    ]
+  }
+]
